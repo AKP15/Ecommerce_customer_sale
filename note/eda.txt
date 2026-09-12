@@ -1,0 +1,92 @@
+Step 1: Calculate the main KPIs
+Total Revenue → How much money the business generated
+Total Orders → Number of customers/orders represented in the dataset
+Total Quantity → How many products were sold
+AOV → Average amount spent per order/customer
+Return Rate → Percentage of purchases returned
+Average Rating → Customer satisfaction indicator
+
+Step 2 — Revenue by Category
+Group by → Category → calculate total Sales → sort
+(business question:Which product category generates the most revenue, and which generates the least?)
+<<<Electronics is the strongest category with $148,969.01, contributing about 51.3% of total revenue.
+Beauty is the weakest with $15,626.30.
+So the business is heavily dependent on Electronics revenue. That's an important finding for management.>>>
+
+Step 3 — sales performance by Channel.
+Group by → Channel → Sum of Sales
+(Which channel generates the most revenue: Website, Mobile App, or Marketplace?)
+<<<Website is the strongest sales channel, generating almost half of total revenue.
+Marketplace is the weakest, so the business could investigate:
+Why Marketplace sales are lower
+Whether customers prefer the Website/App
+Whether Marketplace fees or discounts affect performance>>>
+
+Step 4 — Revenue by Payment
+Payment_Method → group by → total Sales → sort
+(Which payment method generates the most revenue?)
+<<<Debit Card is the top payment method, generating about 28.1% of total revenue.
+The difference between the highest and lowest methods is about $14,552, so payment methods are relatively distributed rather than being dominated by one method.>>>
+
+Step 5 — Analyze customers
+Country → group by → sum Sales → sort descending
+(Which country generates the most revenue?)
+<<<Thailand is the strongest market, generating $86,959.92, about 30% of total revenue.
+India is a distant second at $43,246.85.
+The Unknown country revenue is small, so it probably won't affect the overall business conclusions much. However, keeping track of missing-country data is still important for reporting quality.>>>
+
+Step 6 — Monthly Revenue Trend
+Order_Date → extract month → group by month → sum Sales
+(How does revenue change from month to month?)
+<<<Best month: August — $29,400.15
+Worst month: April — $20,782.45
+The business has noticeable monthly fluctuations rather than a steady upward trend.
+One interesting point: November is also strong at $26,265.30, while December drops to $22,485.06.>>>
+
+Step 7 — Important KPI: Return Rate by Category
+Return Rate = returned orders ÷ total orders × 100
+(Which category has the highest return rate?)
+<<<Sports: 8.55% → highest return rate>>>
+
+Step 8 — Customer satisfaction
+(Does customer rating differ between returned and non-returned orders?)
+Split the data into two groups
+Returned == 1 → Returned orders
+Returned == 0 → Non-returned orders
+For each group, calculate:
+Average Rating
+Compare the two averages.
+<<<Returned orders have a lower average rating:
+3.84 − 3.69 = 0.15 points lower
+So, customers who returned their orders appear to be slightly less satisfied.>>>
+
+Step9 — return rate by channel
+Return Rate = returned channel ÷ total channel × 100
+(Now let's investigate which channel has the highest return rate.)
+<<<Mobile App has the highest return rate (7.20%), while Marketplace has the lowest (5.85%).>>>
+
+Step10 — return rate by category and channel
+Return Rate cc  = returned cc  ÷ total cc × 100
+(Which Category + Channel combination has the highest return rate?)
+<<<Electronics on Mobile App has the highest return rate (9.71%)
+Sports has relatively high return rates across all three channels>>>
+
+Investigate customer behavior
+Create spending groups using Sales
+(Do customers who spend more money have higher return rates?)
+<<<Medium-spending customers have the highest return rate (7.69%).
+So spending level alone doesn't appear to strongly explain returns.>>>
+
+Investigate ratings by category
+Group by → Category Calculate → mean of Rating
+(Which product category has the lowest average customer rating?)
+<<<Electronics has the lowest rating: 3.75
+Clothing has the highest: 3.94
+The difference is about 0.19 points.
+This is interesting because Electronics also had the highest return rate in the Mobile App (9.71%).>>>
+
+final EDA question
+Connect Sales and Rating.
+(Do higher-priced orders tend to receive lower ratings?)
+Think about correlation or a scatter plot.
+Sales and Rating

@@ -1,0 +1,7 @@
+
+Country	5 missing	Fill with "Unknown"
+Discount4 missing	Fill with 0
+Unit_PriceMinimum -40	Convert negative price to positive
+Category electronics inconsistent	Standardize to Electronics
+Channel website inconsistent	Standardize to Website
+Remove duplicate

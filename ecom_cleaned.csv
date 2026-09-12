@@ -1,0 +1,1001 @@
+Customer_ID,Order_Date,Country,Category,Channel,Payment_Method,Quantity,Unit_Price,Discount,Sales,Shipping_Cost,Returned,Rating
+C10000,2025-01-01 00:00:00.000000000,Thailand,Home & Kitchen,Website,Mobile Payment,1,63.81,0.05,60.62,5,1,4
+C10001,2025-01-01 08:44:41.081081081,UK,Sports,Website,Credit Card,3,60.11,0.0,180.32,0,0,4
+C10002,2025-01-01 17:29:22.162162162,India,Beauty,Marketplace,Credit Card,3,43.87,0.0,131.62,0,0,3
+C10003,2025-01-02 02:14:03.243243243,Australia,Clothing,Website,PayPal,4,52.03,0.0,208.14,0,0,5
+C10004,2025-01-02 10:58:44.324324324,India,Electronics,Website,Mobile Payment,5,202.91,0.15,862.36,0,0,1
+C10005,2025-01-02 19:43:25.405405405,Germany,Electronics,Mobile App,Debit Card,2,129.04,0.05,245.17,0,1,4
+C10006,2025-01-03 04:28:06.486486486,Australia,Electronics,Website,PayPal,1,140.67,0.1,126.61,0,0,4
+C10007,2025-01-03 13:12:47.567567567,India,Sports,Mobile App,Mobile Payment,1,55.23,0.05,52.47,5,0,3
+C10008,2025-01-03 21:57:28.648648648,Thailand,Clothing,Website,Mobile Payment,5,45.79,0.0,228.94,0,0,5
+C10009,2025-01-04 06:42:09.729729729,UK,Beauty,Mobile App,Debit Card,4,40.86,0.0,163.45,0,0,5
+C10010,2025-01-04 15:26:50.810810810,Thailand,Electronics,Website,PayPal,4,220.77,0.1,794.77,0,0,4
+C10011,2025-01-05 00:11:31.891891891,Canada,Sports,Website,Mobile Payment,5,93.37,0.1,420.17,0,0,4
+C10012,2025-01-05 08:56:12.972972973,unknown,Beauty,Marketplace,Mobile Payment,4,51.39,0.15,174.73,0,0,3
+C10013,2025-01-05 17:40:54.054054054,Thailand,Electronics,Website,Mobile Payment,1,150.81,0.1,135.73,0,0,5
+C10014,2025-01-06 02:25:35.135135135,Australia,Electronics,Mobile App,Debit Card,1,181.58,0.1,163.43,0,0,3
+C10015,2025-01-06 11:10:16.216216216,Canada,Electronics,Website,PayPal,2,151.13,0.1,272.03,0,0,4
+C10016,2025-01-06 19:54:57.297297297,Thailand,Home & Kitchen,Website,PayPal,5,79.66,0.15,338.56,0,0,5
+C10017,2025-01-07 04:39:38.378378378,UK,Clothing,Marketplace,PayPal,3,57.89,0.1,156.29,0,0,3
+C10018,2025-01-07 13:24:19.459459459,Canada,Home & Kitchen,Website,PayPal,3,67.29,0.0,201.87,0,0,5
+C10019,2025-01-07 22:09:00.540540540,Thailand,Home & Kitchen,Mobile App,Credit Card,2,76.74,0.05,145.82,0,0,1
+C10020,2025-01-08 06:53:41.621621621,Australia,Clothing,Marketplace,Credit Card,2,74.51,0.1,134.12,0,0,5
+C10021,2025-01-08 15:38:22.702702702,Thailand,Electronics,Mobile App,PayPal,4,184.73,0.1,665.03,0,0,2
+C10022,2025-01-09 00:23:03.783783783,Canada,Home & Kitchen,Marketplace,Debit Card,2,91.06,0.0,182.12,0,0,4
+C10023,2025-01-09 09:07:44.864864864,Canada,Home & Kitchen,Website,Credit Card,2,63.92,0.15,108.66,0,0,3
+C10024,2025-01-09 17:52:25.945945946,Canada,Home & Kitchen,Website,Mobile Payment,3,78.59,0.2,188.61,0,0,5
+C10025,2025-01-10 02:37:07.027027027,UK,Beauty,Website,Credit Card,4,52.26,0.0,209.02,0,0,4
+C10026,2025-01-10 11:21:48.108108108,India,Electronics,Mobile App,Mobile Payment,2,146.74,0.15,249.46,0,0,3
+C10027,2025-01-10 20:06:29.189189189,India,Clothing,Marketplace,PayPal,2,54.48,0.0,108.96,0,0,4
+C10028,2025-01-11 04:51:10.270270270,USA,Clothing,Website,Credit Card,4,39.05,0.0,156.21,0,0,4
+C10029,2025-01-11 13:35:51.351351351,India,Electronics,Mobile App,Debit Card,5,186.27,0.0,931.35,0,1,4
+C10030,2025-01-11 22:20:32.432432432,Thailand,Clothing,Website,Credit Card,4,39.31,0.0,157.24,0,0,5
+C10031,2025-01-12 07:05:13.513513513,Germany,Electronics,Mobile App,Credit Card,3,229.27,0.15,584.64,0,0,4
+C10032,2025-01-12 15:49:54.594594594,Thailand,Electronics,Mobile App,Credit Card,5,229.93,0.0,1149.66,0,0,3
+C10033,2025-01-13 00:34:35.675675675,Thailand,Sports,Marketplace,PayPal,1,87.6,0.0,87.6,10,0,1
+C10034,2025-01-13 09:19:16.756756756,Thailand,Sports,Mobile App,Debit Card,4,62.88,0.0,251.54,0,0,4
+C10035,2025-01-13 18:03:57.837837837,Australia,Beauty,Website,Credit Card,3,51.44,0.0,154.33,0,0,4
+C10036,2025-01-14 02:48:38.918918919,USA,Home & Kitchen,Website,Debit Card,5,97.21,0.0,486.04,0,0,4
+C10037,2025-01-14 11:33:20.000000000,Australia,Electronics,Website,PayPal,4,173.1,0.1,623.16,0,0,3
+C10038,2025-01-14 20:18:01.081081081,Thailand,Clothing,Website,Mobile Payment,2,62.58,0.0,125.15,0,0,4
+C10039,2025-01-15 05:02:42.162162162,USA,Home & Kitchen,Website,Credit Card,4,63.78,0.15,216.84,0,0,5
+C10040,2025-01-15 13:47:23.243243243,UK,Electronics,Marketplace,Debit Card,1,144.01,0.15,122.41,0,0,3
+C10041,2025-01-15 22:32:04.324324324,India,Clothing,Mobile App,Debit Card,4,67.08,0.0,268.31,0,0,4
+C10042,2025-01-16 07:16:45.405405405,USA,Electronics,Mobile App,PayPal,5,156.76,0.15,666.25,0,0,5
+C10043,2025-01-16 16:01:26.486486486,Germany,Sports,Website,Credit Card,5,78.3,0.0,391.51,0,0,5
+C10044,2025-01-17 00:46:07.567567567,India,Home & Kitchen,Marketplace,Mobile Payment,4,87.26,0.0,349.05,0,0,4
+C10045,2025-01-17 09:30:48.648648648,Germany,Clothing,Mobile App,Debit Card,5,71.41,0.0,357.05,0,0,4
+C10046,2025-01-17 18:15:29.729729729,Thailand,Home & Kitchen,Website,Credit Card,2,123.0,0.0,246.0,0,0,5
+C10047,2025-01-18 03:00:10.810810810,Thailand,Clothing,Mobile App,Mobile Payment,4,72.52,0.05,275.57,0,0,1
+C10048,2025-01-18 11:44:51.891891892,India,Clothing,Mobile App,Debit Card,2,48.92,0.1,88.05,8,0,4
+C10049,2025-01-18 20:29:32.972972973,Thailand,Electronics,Website,Debit Card,2,150.46,0.0,300.93,0,0,3
+C10050,2025-01-19 05:14:14.054054054,India,Sports,Mobile App,Mobile Payment,3,72.25,0.1,195.07,0,0,4
+C10051,2025-01-19 13:58:55.135135135,UK,Beauty,Mobile App,Mobile Payment,4,28.21,0.0,112.82,0,0,4
+C10052,2025-01-19 22:43:36.216216216,Canada,Sports,Website,PayPal,5,50.26,0.1,226.19,0,0,5
+C10053,2025-01-20 07:28:17.297297297,India,Sports,Marketplace,Credit Card,2,76.11,0.0,152.22,0,0,2
+C10054,2025-01-20 16:12:58.378378378,Canada,Clothing,Marketplace,Credit Card,3,58.54,0.0,175.61,0,0,4
+C10055,2025-01-21 00:57:39.459459459,USA,Electronics,Mobile App,PayPal,4,97.73,0.0,390.94,0,0,4
+C10056,2025-01-21 09:42:20.540540540,Australia,Electronics,Mobile App,Debit Card,4,151.43,0.0,605.73,0,0,4
+C10057,2025-01-21 18:27:01.621621621,USA,Electronics,Website,Mobile Payment,1,158.52,0.05,150.6,0,1,5
+C10058,2025-01-22 03:11:42.702702702,UK,Electronics,Mobile App,Mobile Payment,1,140.31,0.15,119.26,0,0,4
+C10059,2025-01-22 11:56:23.783783783,Germany,Home & Kitchen,Mobile App,Mobile Payment,2,120.81,0.0,241.61,0,0,5
+C10060,2025-01-22 20:41:04.864864865,India,Home & Kitchen,Website,Debit Card,1,112.0,0.1,100.8,0,0,4
+C10061,2025-01-23 05:25:45.945945946,Canada,Home & Kitchen,Mobile App,Mobile Payment,2,114.81,0.1,206.65,0,0,4
+C10062,2025-01-23 14:10:27.027027027,Australia,Beauty,Marketplace,Mobile Payment,5,53.28,0.15,226.43,0,0,5
+C10063,2025-01-23 22:55:08.108108108,USA,Home & Kitchen,Mobile App,PayPal,2,96.07,0.0,192.14,0,0,3
+C10064,2025-01-24 07:39:49.189189189,USA,Home & Kitchen,Website,Debit Card,1,91.43,0.05,86.85,3,0,2
+C10065,2025-01-24 16:24:30.270270270,Australia,Clothing,Mobile App,Credit Card,5,51.22,0.15,217.69,0,0,5
+C10066,2025-01-25 01:09:11.351351351,Thailand,Electronics,Website,PayPal,1,200.24,0.1,180.22,0,0,4
+C10067,2025-01-25 09:53:52.432432432,Thailand,Beauty,Website,PayPal,2,40.72,0.05,77.37,3,0,5
+C10068,2025-01-25 18:38:33.513513513,USA,Electronics,Website,Credit Card,3,182.9,0.0,548.69,0,0,5
+C10069,2025-01-26 03:23:14.594594594,Thailand,Sports,Website,PayPal,4,94.91,0.0,379.64,0,0,4
+C10070,2025-01-26 12:07:55.675675675,Thailand,Beauty,Mobile App,Debit Card,1,55.55,0.1,50.0,8,0,4
+C10071,2025-01-26 20:52:36.756756756,Thailand,Electronics,Mobile App,Mobile Payment,2,226.36,0.1,407.44,0,0,4
+C10072,2025-01-27 05:37:17.837837838,Thailand,Electronics,Website,Debit Card,5,221.35,0.0,1106.76,0,0,4
+C10073,2025-01-27 14:21:58.918918919,Thailand,Beauty,Marketplace,Credit Card,1,47.06,0.1,42.35,10,0,5
+C10074,2025-01-27 23:06:40.000000000,Canada,Beauty,Marketplace,Credit Card,1,32.65,0.1,29.39,10,0,5
+C10075,2025-01-28 07:51:21.081081081,USA,Beauty,Marketplace,PayPal,4,29.65,0.05,112.69,0,0,4
+C10076,2025-01-28 16:36:02.162162162,USA,Beauty,Website,Debit Card,2,47.34,0.1,85.21,8,0,2
+C10077,2025-01-29 01:20:43.243243243,Australia,Electronics,Mobile App,Debit Card,3,217.83,0.15,555.46,0,0,4
+C10078,2025-01-29 10:05:24.324324324,Thailand,Home & Kitchen,Marketplace,Credit Card,5,65.96,0.0,329.8,0,0,3
+C10079,2025-01-29 18:50:05.405405405,Canada,Electronics,Mobile App,Debit Card,2,242.93,0.15,412.99,0,0,5
+C10080,2025-01-30 03:34:46.486486486,India,Sports,Website,Credit Card,5,53.47,0.0,267.33,0,0,2
+C10081,2025-01-30 12:19:27.567567567,Thailand,Clothing,Website,Debit Card,1,49.51,0.0,49.51,10,0,5
+C10082,2025-01-30 21:04:08.648648648,USA,Home & Kitchen,Mobile App,Debit Card,4,105.36,0.0,421.44,0,0,4
+C10083,2025-01-31 05:48:49.729729730,India,Electronics,Marketplace,Debit Card,4,147.4,0.0,589.62,0,0,5
+C10084,2025-01-31 14:33:30.810810811,Canada,Home & Kitchen,Mobile App,Credit Card,3,66.49,0.0,199.47,0,0,4
+C10085,2025-01-31 23:18:11.891891892,UK,Home & Kitchen,Mobile App,PayPal,4,83.86,0.0,335.45,0,0,4
+C10086,2025-02-01 08:02:52.972972973,Germany,Beauty,Website,Debit Card,1,49.45,0.15,42.03,8,0,4
+C10087,2025-02-01 16:47:34.054054054,unknown,Clothing,Mobile App,Credit Card,3,54.43,0.0,163.28,0,0,5
+C10088,2025-02-02 01:32:15.135135135,Canada,Sports,Marketplace,Credit Card,2,81.0,0.1,145.79,0,0,4
+C10089,2025-02-02 10:16:56.216216216,Thailand,Clothing,Website,Debit Card,4,60.82,0.0,243.26,0,0,4
+C10090,2025-02-02 19:01:37.297297297,Canada,Electronics,Mobile App,Debit Card,3,128.8,0.15,328.44,0,0,4
+C10091,2025-02-03 03:46:18.378378378,Germany,Beauty,Marketplace,PayPal,1,55.68,0.1,50.11,8,0,2
+C10092,2025-02-03 12:30:59.459459459,Germany,Beauty,Website,Credit Card,5,29.16,0.0,145.8,0,0,4
+C10093,2025-02-03 21:15:40.540540540,UK,Clothing,Mobile App,Credit Card,5,75.76,0.1,340.92,0,0,5
+C10094,2025-02-04 06:00:21.621621621,Thailand,Beauty,Website,Mobile Payment,1,43.4,0.05,41.23,8,0,1
+C10095,2025-02-04 14:45:02.702702703,Thailand,Clothing,Mobile App,Credit Card,1,75.58,0.1,68.02,3,0,4
+C10096,2025-02-04 23:29:43.783783784,Thailand,Clothing,Mobile App,PayPal,5,42.92,0.05,203.86,0,0,4
+C10097,2025-02-05 08:14:24.864864865,Thailand,Home & Kitchen,Mobile App,Mobile Payment,3,93.9,0.1,253.52,0,0,4
+C10098,2025-02-05 16:59:05.945945946,India,Electronics,Mobile App,Mobile Payment,5,147.36,0.1,663.11,0,0,2
+C10099,2025-02-06 01:43:47.027027027,USA,Electronics,Website,Mobile Payment,1,132.42,0.05,125.8,0,0,4
+C10100,2025-02-06 10:28:28.108108108,Thailand,Electronics,Marketplace,Debit Card,4,203.81,0.0,815.23,0,0,2
+C10101,2025-02-06 19:13:09.189189189,Canada,Clothing,Website,Debit Card,2,46.5,0.15,79.05,8,0,2
+C10102,2025-02-07 03:57:50.270270270,India,Home & Kitchen,Website,Credit Card,4,100.02,0.05,380.09,0,0,5
+C10103,2025-02-07 12:42:31.351351351,Canada,Clothing,Mobile App,Mobile Payment,4,42.83,0.05,162.74,0,0,4
+C10104,2025-02-07 21:27:12.432432432,Canada,Sports,Mobile App,PayPal,1,65.27,0.0,65.27,3,0,5
+C10105,2025-02-08 06:11:53.513513513,Thailand,Electronics,Website,Debit Card,5,224.49,0.05,1066.31,0,0,1
+C10106,2025-02-08 14:56:34.594594594,USA,Home & Kitchen,Marketplace,PayPal,3,90.53,0.2,217.28,0,0,4
+C10107,2025-02-08 23:41:15.675675676,Australia,Beauty,Marketplace,PayPal,4,45.58,0.0,182.31,0,0,2
+C10108,2025-02-09 08:25:56.756756757,Australia,Electronics,Website,Debit Card,5,207.58,0.05,986.0,0,0,4
+C10109,2025-02-09 17:10:37.837837838,Thailand,Electronics,Marketplace,Debit Card,3,232.31,0.1,627.25,0,0,5
+C10110,2025-02-10 01:55:18.918918919,India,Home & Kitchen,Website,Debit Card,4,83.47,0.15,283.8,0,0,5
+C10111,2025-02-10 10:40:00.000000000,Thailand,Electronics,Website,Debit Card,3,212.6,0.05,605.91,0,0,2
+C10112,2025-02-10 19:24:41.081081081,Thailand,Sports,Website,Mobile Payment,5,96.12,0.0,480.6,0,0,4
+C10113,2025-02-11 04:09:22.162162162,UK,Beauty,Marketplace,Mobile Payment,2,48.45,0.15,82.36,5,0,4
+C10114,2025-02-11 12:54:03.243243243,Germany,Clothing,Mobile App,Mobile Payment,5,57.36,0.1,258.12,0,0,3
+C10115,2025-02-11 21:38:44.324324324,Germany,Sports,Website,Mobile Payment,1,79.91,0.0,79.91,8,0,3
+C10116,2025-02-12 06:23:25.405405405,Thailand,Beauty,Website,Credit Card,3,48.71,0.0,146.13,0,0,5
+C10117,2025-02-12 15:08:06.486486486,India,Electronics,Mobile App,Mobile Payment,2,203.15,0.05,385.98,0,0,5
+C10118,2025-02-12 23:52:47.567567567,Thailand,Sports,Website,Debit Card,3,49.82,0.0,149.45,0,0,5
+C10119,2025-02-13 08:37:28.648648649,Thailand,Clothing,Marketplace,PayPal,3,46.0,0.0,138.0,0,0,5
+C10120,2025-02-13 17:22:09.729729730,India,Beauty,Marketplace,Mobile Payment,4,50.69,0.15,172.36,0,1,4
+C10121,2025-02-14 02:06:50.810810811,Canada,Sports,Mobile App,Credit Card,1,62.36,0.0,62.36,5,0,4
+C10122,2025-02-14 10:51:31.891891892,India,Home & Kitchen,Marketplace,Debit Card,3,109.09,0.1,294.54,0,0,3
+C10123,2025-02-14 19:36:12.972972973,India,Electronics,Website,PayPal,5,172.89,0.0,864.44,0,0,2
+C10124,2025-02-15 04:20:54.054054054,Germany,Electronics,Marketplace,PayPal,5,191.76,0.1,862.91,0,0,4
+C10125,2025-02-15 13:05:35.135135135,UK,Home & Kitchen,Mobile App,Mobile Payment,4,67.28,0.1,242.22,0,0,5
+C10126,2025-02-15 21:50:16.216216216,Thailand,Beauty,Mobile App,PayPal,1,33.07,0.0,33.07,10,0,5
+C10127,2025-02-16 06:34:57.297297297,USA,Sports,Website,Mobile Payment,1,95.9,0.05,91.11,8,0,5
+C10128,2025-02-16 15:19:38.378378378,USA,Electronics,Marketplace,Mobile Payment,5,238.16,0.0,1190.79,0,0,5
+C10129,2025-02-17 00:04:19.459459459,Thailand,Clothing,Website,Debit Card,2,63.61,0.15,108.14,0,0,5
+C10130,2025-02-17 08:49:00.540540540,Australia,Home & Kitchen,Website,Debit Card,4,91.96,0.15,312.66,0,0,3
+C10131,2025-02-17 17:33:41.621621621,UK,Electronics,Website,Credit Card,4,211.15,0.05,802.35,0,0,5
+C10132,2025-02-18 02:18:22.702702703,Thailand,Electronics,Mobile App,Debit Card,5,203.94,0.05,968.74,0,0,4
+C10133,2025-02-18 11:03:03.783783784,Thailand,Home & Kitchen,Mobile App,Debit Card,5,98.82,0.0,494.09,0,1,3
+C10134,2025-02-18 19:47:44.864864865,Australia,Sports,Mobile App,Mobile Payment,2,51.9,0.1,93.42,5,1,5
+C10135,2025-02-19 04:32:25.945945946,Thailand,Home & Kitchen,Marketplace,Debit Card,2,102.87,0.05,195.45,0,0,5
+C10136,2025-02-19 13:17:07.027027027,India,Clothing,Website,Mobile Payment,1,68.1,0.0,68.1,8,0,3
+C10137,2025-02-19 22:01:48.108108108,UK,Beauty,Mobile App,Mobile Payment,4,55.83,0.05,212.17,0,0,1
+C10138,2025-02-20 06:46:29.189189189,UK,Home & Kitchen,Website,Debit Card,4,63.7,0.0,254.79,0,0,4
+C10139,2025-02-20 15:31:10.270270270,Germany,Sports,Marketplace,Credit Card,5,84.78,0.1,381.5,0,0,4
+C10140,2025-02-21 00:15:51.351351351,India,Sports,Marketplace,Credit Card,1,77.02,0.0,77.02,10,0,5
+C10141,2025-02-21 09:00:32.432432432,USA,Home & Kitchen,Mobile App,PayPal,4,90.35,0.1,325.24,0,0,3
+C10142,2025-02-21 17:45:13.513513513,Australia,Clothing,Mobile App,PayPal,1,43.41,0.0,43.41,3,0,2
+C10143,2025-02-22 02:29:54.594594594,UK,Home & Kitchen,Website,Debit Card,1,88.77,0.0,88.77,3,0,3
+C10144,2025-02-22 11:14:35.675675676,Thailand,Home & Kitchen,Mobile App,Credit Card,5,85.33,0.1,383.97,0,0,1
+C10145,2025-02-22 19:59:16.756756757,India,Electronics,Marketplace,Mobile Payment,1,164.16,0.2,131.33,0,0,1
+C10146,2025-02-23 04:43:57.837837838,India,Clothing,Mobile App,PayPal,2,66.64,0.1,119.95,0,0,5
+C10147,2025-02-23 13:28:38.918918919,Germany,Clothing,Website,Mobile Payment,2,65.48,0.0,130.96,0,0,4
+C10148,2025-02-23 22:13:20.000000000,India,Electronics,Mobile App,PayPal,3,200.22,0.0,600.65,0,0,4
+C10149,2025-02-24 06:58:01.081081081,India,Home & Kitchen,Marketplace,Debit Card,5,122.14,0.15,519.08,0,0,1
+C10150,2025-02-24 15:42:42.162162162,Australia,Sports,Website,Credit Card,3,66.14,0.05,188.51,0,0,3
+C10151,2025-02-25 00:27:23.243243243,India,Electronics,Website,PayPal,2,156.72,0.0,313.44,0,0,5
+C10152,2025-02-25 09:12:04.324324324,Australia,Electronics,Mobile App,Credit Card,3,208.64,0.15,532.04,0,0,4
+C10153,2025-02-25 17:56:45.405405406,Australia,Clothing,Marketplace,Mobile Payment,5,46.15,0.15,196.16,0,0,5
+C10154,2025-02-26 02:41:26.486486487,Germany,Sports,Website,Debit Card,5,64.44,0.2,257.74,0,0,4
+C10155,2025-02-26 11:26:07.567567568,Australia,Electronics,Website,Credit Card,1,154.3,0.15,131.15,0,0,4
+C10156,2025-02-26 20:10:48.648648649,Thailand,Clothing,Website,Debit Card,4,41.16,0.15,139.95,0,0,4
+C10157,2025-02-27 04:55:29.729729730,India,Beauty,Website,Credit Card,1,51.17,0.0,51.17,5,0,4
+C10158,2025-02-27 13:40:10.810810811,India,Electronics,Mobile App,Mobile Payment,5,158.07,0.0,790.36,0,0,5
+C10159,2025-02-27 22:24:51.891891892,Thailand,Beauty,Mobile App,Mobile Payment,2,41.24,0.1,74.24,3,0,3
+C10160,2025-02-28 07:09:32.972972973,India,Home & Kitchen,Mobile App,Debit Card,2,65.73,0.05,124.88,0,0,4
+C10161,2025-02-28 15:54:14.054054054,Thailand,Clothing,Mobile App,Mobile Payment,1,65.42,0.05,62.15,3,0,3
+C10162,2025-03-01 00:38:55.135135135,USA,Clothing,Website,PayPal,5,51.23,0.05,243.33,0,0,4
+C10163,2025-03-01 09:23:36.216216216,Australia,Clothing,Marketplace,Credit Card,2,67.17,0.05,127.63,0,0,5
+C10164,2025-03-01 18:08:17.297297297,Thailand,Electronics,Mobile App,Mobile Payment,5,177.96,0.1,800.83,0,0,4
+C10165,2025-03-02 02:52:58.378378379,India,Beauty,Marketplace,PayPal,2,33.48,0.0,66.96,10,0,4
+C10166,2025-03-02 11:37:39.459459460,India,Home & Kitchen,Mobile App,Debit Card,5,95.33,0.0,476.65,0,0,5
+C10167,2025-03-02 20:22:20.540540541,UK,Electronics,Website,PayPal,3,142.44,0.05,405.96,0,0,4
+C10168,2025-03-03 05:07:01.621621622,Thailand,Electronics,Mobile App,Debit Card,5,181.51,0.1,816.79,0,0,3
+C10169,2025-03-03 13:51:42.702702703,Thailand,Clothing,Website,Debit Card,5,50.72,0.0,253.58,0,0,3
+C10170,2025-03-03 22:36:23.783783784,Germany,Clothing,Mobile App,Credit Card,1,73.61,0.05,69.93,8,0,5
+C10171,2025-03-04 07:21:04.864864865,Canada,Electronics,Website,Credit Card,3,133.68,0.1,360.93,0,0,5
+C10172,2025-03-04 16:05:45.945945946,Germany,Clothing,Website,PayPal,4,65.22,0.05,247.83,0,0,4
+C10173,2025-03-05 00:50:27.027027027,Thailand,Electronics,Marketplace,Credit Card,1,149.03,0.0,149.03,0,0,4
+C10174,2025-03-05 09:35:08.108108108,Germany,Clothing,Website,Credit Card,4,50.78,0.05,192.98,0,0,5
+C10175,2025-03-05 18:19:49.189189189,UK,Electronics,Marketplace,Credit Card,2,178.35,0.0,356.71,0,0,2
+C10176,2025-03-06 03:04:30.270270270,India,Clothing,Website,PayPal,4,73.46,0.15,249.76,0,0,4
+C10177,2025-03-06 11:49:11.351351352,Thailand,Home & Kitchen,Mobile App,Mobile Payment,5,78.28,0.0,391.41,0,0,2
+C10178,2025-03-06 20:33:52.432432433,Australia,Sports,Mobile App,Credit Card,4,53.47,0.1,192.51,0,0,5
+C10179,2025-03-07 05:18:33.513513514,UK,Electronics,Mobile App,Credit Card,1,166.15,0.0,166.15,0,0,2
+C10180,2025-03-07 14:03:14.594594595,Canada,Home & Kitchen,Website,PayPal,1,69.59,0.05,66.11,8,0,4
+C10181,2025-03-07 22:47:55.675675676,USA,Electronics,Website,Mobile Payment,4,142.2,0.1,511.93,0,0,2
+C10182,2025-03-08 07:32:36.756756757,Germany,Sports,Website,Credit Card,1,77.12,0.0,77.12,5,0,4
+C10183,2025-03-08 16:17:17.837837838,Canada,Sports,Website,Debit Card,1,51.98,0.05,49.38,5,0,5
+C10184,2025-03-09 01:01:58.918918919,Thailand,Home & Kitchen,Mobile App,PayPal,4,64.95,0.0,259.79,0,0,4
+C10185,2025-03-09 09:46:40.000000000,Canada,Clothing,Marketplace,Credit Card,3,66.0,0.0,198.01,0,0,4
+C10186,2025-03-09 18:31:21.081081081,Australia,Beauty,Marketplace,Credit Card,3,38.13,0.1,102.94,0,0,4
+C10187,2025-03-10 03:16:02.162162162,Thailand,Clothing,Mobile App,Debit Card,2,43.33,0.0,86.65,8,0,4
+C10188,2025-03-10 12:00:43.243243243,USA,Clothing,Mobile App,Debit Card,1,48.26,0.15,41.02,5,0,5
+C10189,2025-03-10 20:45:24.324324325,Australia,Electronics,Mobile App,PayPal,4,206.9,0.1,744.85,0,0,3
+C10190,2025-03-11 05:30:05.405405406,Thailand,Electronics,Website,PayPal,1,160.72,0.05,152.68,0,0,5
+C10191,2025-03-11 14:14:46.486486487,Germany,Sports,Marketplace,Debit Card,5,73.23,0.0,366.16,0,0,3
+C10192,2025-03-11 22:59:27.567567568,USA,Sports,Mobile App,PayPal,1,54.96,0.05,52.21,3,0,3
+C10193,2025-03-12 07:44:08.648648649,Germany,Clothing,Mobile App,Debit Card,1,61.14,0.1,55.03,5,0,4
+C10194,2025-03-12 16:28:49.729729730,Thailand,Home & Kitchen,Website,Credit Card,3,82.91,0.0,248.74,0,0,4
+C10195,2025-03-13 01:13:30.810810811,India,Home & Kitchen,Website,Debit Card,4,102.5,0.15,348.5,0,0,4
+C10196,2025-03-13 09:58:11.891891892,Canada,Beauty,Mobile App,Debit Card,1,50.64,0.0,50.64,10,0,5
+C10197,2025-03-13 18:42:52.972972973,Canada,Sports,Marketplace,Mobile Payment,3,78.97,0.15,201.38,0,0,3
+C10198,2025-03-14 03:27:34.054054054,Australia,Sports,Mobile App,Debit Card,2,63.49,0.0,126.98,0,0,1
+C10199,2025-03-14 12:12:15.135135135,Thailand,Beauty,Website,Debit Card,3,35.16,0.15,89.66,10,0,5
+C10200,2025-03-14 20:56:56.216216216,Australia,Clothing,Marketplace,Mobile Payment,3,51.11,0.05,145.65,0,0,5
+C10201,2025-03-15 05:41:37.297297297,Thailand,Electronics,Website,PayPal,3,146.74,0.0,440.23,0,0,2
+C10202,2025-03-15 14:26:18.378378379,Thailand,Electronics,Website,Mobile Payment,1,148.83,0.0,148.83,0,0,4
+C10203,2025-03-15 23:10:59.459459460,USA,Sports,Website,Credit Card,1,87.74,0.05,83.36,5,0,4
+C10204,2025-03-16 07:55:40.540540541,UK,Clothing,Mobile App,Mobile Payment,2,53.31,0.2,85.3,8,0,5
+C10205,2025-03-16 16:40:21.621621622,India,Electronics,Marketplace,Credit Card,5,180.94,0.0,904.68,0,0,5
+C10206,2025-03-17 01:25:02.702702703,Australia,Electronics,Website,PayPal,5,200.85,0.0,1004.25,0,0,5
+C10207,2025-03-17 10:09:43.783783784,USA,Clothing,Marketplace,Mobile Payment,5,61.2,0.1,275.41,0,0,5
+C10208,2025-03-17 18:54:24.864864865,Thailand,Electronics,Website,Mobile Payment,2,134.49,0.05,255.53,0,1,3
+C10209,2025-03-18 03:39:05.945945946,Canada,Electronics,Marketplace,PayPal,5,230.77,0.05,1096.18,0,0,5
+C10210,2025-03-18 12:23:47.027027027,USA,Clothing,Mobile App,Credit Card,5,45.33,0.1,203.97,0,0,4
+C10211,2025-03-18 21:08:28.108108108,UK,Clothing,Marketplace,Mobile Payment,3,66.34,0.0,199.01,0,0,2
+C10212,2025-03-19 05:53:09.189189189,Thailand,Clothing,Website,Credit Card,1,68.25,0.15,58.01,5,0,4
+C10213,2025-03-19 14:37:50.270270270,India,Electronics,Marketplace,Mobile Payment,1,216.08,0.05,205.27,0,0,5
+C10214,2025-03-19 23:22:31.351351352,Australia,Beauty,Mobile App,Debit Card,3,44.21,0.0,132.63,0,0,5
+C10215,2025-03-20 08:07:12.432432433,Thailand,Electronics,Website,Mobile Payment,3,127.84,0.1,345.17,0,1,2
+C10216,2025-03-20 16:51:53.513513514,Thailand,Home & Kitchen,Marketplace,PayPal,3,85.7,0.1,231.4,0,0,5
+C10217,2025-03-21 01:36:34.594594595,Australia,Beauty,Website,PayPal,1,44.94,0.0,44.94,3,0,5
+C10218,2025-03-21 10:21:15.675675676,Germany,Clothing,Marketplace,Credit Card,5,53.42,0.1,240.38,0,0,3
+C10219,2025-03-21 19:05:56.756756757,Thailand,Beauty,Website,Mobile Payment,3,52.18,0.0,156.53,0,0,4
+C10220,2025-03-22 03:50:37.837837838,Canada,Clothing,Mobile App,Credit Card,2,50.39,0.05,95.74,3,0,5
+C10221,2025-03-22 12:35:18.918918919,Thailand,Clothing,Mobile App,Credit Card,3,49.8,0.15,126.99,0,0,4
+C10222,2025-03-22 21:20:00.000000000,USA,Electronics,Website,Debit Card,4,159.52,0.0,638.06,0,0,2
+C10223,2025-03-23 06:04:41.081081081,Canada,Home & Kitchen,Website,Debit Card,3,83.97,0.05,239.3,0,0,5
+C10224,2025-03-23 14:49:22.162162162,USA,Home & Kitchen,Website,PayPal,1,98.12,0.15,83.4,5,0,5
+C10225,2025-03-23 23:34:03.243243243,Germany,Electronics,Mobile App,Credit Card,3,215.08,0.2,516.2,0,0,4
+C10226,2025-03-24 08:18:44.324324325,USA,Sports,Website,PayPal,4,81.47,0.05,309.57,0,0,5
+C10227,2025-03-24 17:03:25.405405406,Thailand,Home & Kitchen,Mobile App,Mobile Payment,2,113.89,0.05,216.38,0,0,4
+C10228,2025-03-25 01:48:06.486486487,Canada,Sports,Website,Credit Card,5,92.41,0.1,415.84,0,0,3
+C10229,2025-03-25 10:32:47.567567568,USA,Clothing,Website,Credit Card,3,69.92,0.15,178.29,0,0,4
+C10230,2025-03-25 19:17:28.648648649,India,Beauty,Mobile App,Mobile Payment,4,28.53,0.15,97.0,5,0,4
+C10231,2025-03-26 04:02:09.729729730,Thailand,Clothing,Website,Mobile Payment,4,66.83,0.0,267.33,0,0,5
+C10232,2025-03-26 12:46:50.810810811,Thailand,Clothing,Marketplace,PayPal,2,46.52,0.05,88.39,3,0,3
+C10233,2025-03-26 21:31:31.891891892,Thailand,Clothing,Marketplace,PayPal,1,43.62,0.05,41.44,5,0,4
+C10234,2025-03-27 06:16:12.972972973,Germany,Electronics,Mobile App,Mobile Payment,3,206.45,0.1,557.41,0,0,4
+C10235,2025-03-27 15:00:54.054054054,USA,Beauty,Mobile App,PayPal,4,36.95,0.1,133.03,0,0,5
+C10236,2025-03-27 23:45:35.135135135,India,Home & Kitchen,Marketplace,Mobile Payment,2,66.6,0.1,119.88,0,0,3
+C10237,2025-03-28 08:30:16.216216216,UK,Electronics,Website,Credit Card,5,143.34,0.2,573.37,0,0,1
+C10238,2025-03-28 17:14:57.297297298,Canada,Clothing,Website,Credit Card,4,38.54,0.0,154.14,0,0,3
+C10239,2025-03-29 01:59:38.378378379,Thailand,Electronics,Website,Debit Card,2,239.81,0.0,479.61,0,0,5
+C10240,2025-03-29 10:44:19.459459460,India,Sports,Mobile App,Credit Card,1,50.21,0.05,47.7,8,0,3
+C10241,2025-03-29 19:29:00.540540541,India,Sports,Website,Mobile Payment,1,59.26,0.0,59.26,5,0,3
+C10242,2025-03-30 04:13:41.621621622,India,Sports,Mobile App,PayPal,4,69.4,0.0,277.59,0,0,3
+C10243,2025-03-30 12:58:22.702702703,India,Home & Kitchen,Marketplace,Debit Card,4,85.46,0.0,341.86,0,0,5
+C10244,2025-03-30 21:43:03.783783784,unknown,Electronics,Marketplace,PayPal,3,240.88,0.1,650.37,0,1,2
+C10245,2025-03-31 06:27:44.864864865,Germany,Sports,Mobile App,Mobile Payment,2,50.97,0.15,86.66,8,0,4
+C10246,2025-03-31 15:12:25.945945946,Thailand,Home & Kitchen,Website,Credit Card,4,95.27,0.05,362.02,0,0,3
+C10247,2025-03-31 23:57:07.027027027,Thailand,Sports,Marketplace,Debit Card,3,82.34,0.05,234.68,0,0,4
+C10248,2025-04-01 08:41:48.108108108,Canada,Sports,Mobile App,Mobile Payment,3,94.65,0.0,283.96,0,0,5
+C10249,2025-04-01 17:26:29.189189189,Germany,Sports,Website,Debit Card,4,79.4,0.1,285.83,0,0,4
+C10250,2025-04-02 02:11:10.270270271,India,Home & Kitchen,Website,Debit Card,1,113.64,0.1,102.27,0,0,5
+C10251,2025-04-02 10:55:51.351351352,UK,Home & Kitchen,Marketplace,Credit Card,2,68.27,0.1,122.89,0,0,5
+C10252,2025-04-02 19:40:32.432432433,Thailand,Sports,Mobile App,Mobile Payment,2,67.91,0.0,135.82,0,0,4
+C10253,2025-04-03 04:25:13.513513514,Thailand,Home & Kitchen,Marketplace,PayPal,1,86.56,0.0,86.56,8,0,5
+C10254,2025-04-03 13:09:54.594594595,Australia,Electronics,Marketplace,Debit Card,4,237.67,0.0,950.69,0,0,5
+C10255,2025-04-03 21:54:35.675675676,USA,Clothing,Mobile App,Debit Card,2,44.33,0.1,79.79,3,0,5
+C10256,2025-04-04 06:39:16.756756757,Thailand,Sports,Mobile App,PayPal,4,56.44,0.15,191.9,0,0,4
+C10257,2025-04-04 15:23:57.837837838,UK,Clothing,Website,Mobile Payment,4,51.15,0.15,173.91,0,0,4
+C10258,2025-04-05 00:08:38.918918919,Thailand,Clothing,Website,Debit Card,3,40.6,0.05,115.7,0,0,4
+C10259,2025-04-05 08:53:20.000000000,Germany,Electronics,Website,Debit Card,1,148.99,0.1,134.09,0,0,5
+C10260,2025-04-05 17:38:01.081081081,Thailand,Clothing,Mobile App,Debit Card,4,75.66,0.15,257.25,0,0,3
+C10261,2025-04-06 02:22:42.162162162,India,Sports,Mobile App,Mobile Payment,5,69.98,0.0,349.91,0,1,3
+C10262,2025-04-06 11:07:23.243243243,USA,Electronics,Marketplace,Mobile Payment,1,205.63,0.05,195.35,0,0,4
+C10263,2025-04-06 19:52:04.324324325,UK,Clothing,Website,PayPal,2,66.46,0.15,112.97,0,0,3
+C10264,2025-04-07 04:36:45.405405406,Thailand,Sports,Mobile App,Mobile Payment,3,66.98,0.0,200.94,0,0,4
+C10265,2025-04-07 13:21:26.486486487,Thailand,Beauty,Mobile App,Mobile Payment,2,32.12,0.15,54.61,10,0,3
+C10266,2025-04-07 22:06:07.567567568,USA,Clothing,Mobile App,Credit Card,2,46.45,0.2,74.33,5,0,4
+C10267,2025-04-08 06:50:48.648648649,UK,Beauty,Mobile App,PayPal,1,36.77,0.1,33.09,3,0,5
+C10268,2025-04-08 15:35:29.729729730,Germany,Home & Kitchen,Website,Debit Card,2,103.07,0.15,175.22,0,0,4
+C10269,2025-04-09 00:20:10.810810811,Thailand,Home & Kitchen,Mobile App,Mobile Payment,4,88.09,0.1,317.13,0,0,5
+C10270,2025-04-09 09:04:51.891891892,Australia,Beauty,Website,Debit Card,2,28.19,0.1,50.74,8,0,2
+C10271,2025-04-09 17:49:32.972972973,India,Beauty,Website,Debit Card,3,42.66,0.0,127.97,0,1,3
+C10272,2025-04-10 02:34:14.054054054,India,Sports,Mobile App,Credit Card,3,94.15,0.0,282.46,0,0,5
+C10273,2025-04-10 11:18:55.135135135,Thailand,Sports,Mobile App,Mobile Payment,5,88.79,0.0,443.96,0,1,5
+C10274,2025-04-10 20:03:36.216216216,UK,Clothing,Marketplace,PayPal,3,70.27,0.1,189.73,0,1,4
+C10275,2025-04-11 04:48:17.297297298,Thailand,Clothing,Mobile App,Mobile Payment,2,69.11,0.0,138.22,0,0,5
+C10276,2025-04-11 13:32:58.378378379,Thailand,Beauty,Mobile App,Debit Card,3,37.06,0.0,111.19,0,0,5
+C10277,2025-04-11 22:17:39.459459460,Canada,Clothing,Mobile App,PayPal,1,67.96,0.0,67.96,8,0,5
+C10278,2025-04-12 07:02:20.540540541,Thailand,Beauty,Mobile App,Mobile Payment,3,32.01,0.1,86.42,5,0,4
+C10279,2025-04-12 15:47:01.621621622,UK,Beauty,Website,Debit Card,4,46.42,0.2,148.53,0,0,3
+C10280,2025-04-13 00:31:42.702702703,Germany,Sports,Website,Debit Card,1,80.44,0.2,64.35,3,1,4
+C10281,2025-04-13 09:16:23.783783784,Australia,Home & Kitchen,Website,Credit Card,5,64.61,0.05,306.9,0,0,4
+C10282,2025-04-13 18:01:04.864864865,UK,Home & Kitchen,Mobile App,Credit Card,4,112.64,0.15,382.98,0,0,3
+C10283,2025-04-14 02:45:45.945945946,Thailand,Electronics,Website,Credit Card,2,239.81,0.1,431.66,0,0,5
+C10284,2025-04-14 11:30:27.027027027,USA,Clothing,Website,Debit Card,2,48.8,0.05,92.71,10,0,1
+C10285,2025-04-14 20:15:08.108108108,UK,Electronics,Website,Mobile Payment,2,228.36,0.1,411.05,0,0,4
+C10286,2025-04-15 04:59:49.189189189,Thailand,Home & Kitchen,Marketplace,Credit Card,4,68.19,0.0,272.77,0,0,4
+C10287,2025-04-15 13:44:30.270270270,USA,Clothing,Website,Mobile Payment,4,61.6,0.15,209.44,0,0,5
+C10288,2025-04-15 22:29:11.351351352,Thailand,Home & Kitchen,Mobile App,Credit Card,4,93.6,0.05,355.66,0,0,4
+C10289,2025-04-16 07:13:52.432432432,Thailand,Clothing,Website,PayPal,1,59.52,0.05,56.54,8,0,5
+C10290,2025-04-16 15:58:33.513513514,USA,Electronics,Mobile App,PayPal,1,242.7,0.1,218.43,0,0,4
+C10291,2025-04-17 00:43:14.594594594,Thailand,Electronics,Website,Credit Card,2,235.79,0.0,471.57,0,0,5
+C10292,2025-04-17 09:27:55.675675676,UK,Beauty,Website,Debit Card,3,49.98,0.0,149.95,0,0,5
+C10293,2025-04-17 18:12:36.756756758,Australia,Home & Kitchen,Mobile App,Credit Card,2,80.24,0.1,144.44,0,0,4
+C10294,2025-04-18 02:57:17.837837838,India,Electronics,Website,Credit Card,5,240.89,0.0,1204.45,0,0,5
+C10295,2025-04-18 11:41:58.918918920,Thailand,Clothing,Website,Debit Card,1,42.25,0.1,38.03,3,0,1
+C10296,2025-04-18 20:26:40.000000000,Thailand,Beauty,Website,PayPal,4,51.89,0.05,197.19,0,0,4
+C10297,2025-04-19 05:11:21.081081082,Thailand,Electronics,Website,Mobile Payment,1,167.35,0.1,150.61,0,0,2
+C10298,2025-04-19 13:56:02.162162162,Germany,Clothing,Website,Credit Card,4,40.57,0.1,146.05,0,0,3
+C10299,2025-04-19 22:40:43.243243244,Australia,Electronics,Website,Debit Card,5,210.34,0.05,999.11,0,0,5
+C10300,2025-04-20 07:25:24.324324324,Thailand,Electronics,Marketplace,Credit Card,5,155.14,0.1,698.14,0,0,1
+C10301,2025-04-20 16:10:05.405405406,Canada,Clothing,Mobile App,Debit Card,1,47.88,0.1,43.09,3,0,4
+C10302,2025-04-21 00:54:46.486486486,Thailand,Clothing,Mobile App,Mobile Payment,4,50.28,0.1,181.02,0,0,4
+C10303,2025-04-21 09:39:27.567567568,UK,Clothing,Website,Mobile Payment,5,40.0,0.1,184.28,0,0,4
+C10304,2025-04-21 18:24:08.648648648,Australia,Beauty,Marketplace,PayPal,2,32.96,0.15,56.03,8,0,4
+C10305,2025-04-22 03:08:49.729729730,India,Sports,Website,Debit Card,2,49.25,0.0,98.5,5,0,5
+C10306,2025-04-22 11:53:30.810810812,Australia,Clothing,Website,Debit Card,4,55.65,0.05,211.46,0,0,3
+C10307,2025-04-22 20:38:11.891891892,India,Home & Kitchen,Mobile App,PayPal,1,68.31,0.15,58.06,8,0,4
+C10308,2025-04-23 05:22:52.972972974,USA,Beauty,Website,PayPal,5,47.11,0.05,223.79,0,0,4
+C10309,2025-04-23 14:07:34.054054054,India,Home & Kitchen,Website,Debit Card,1,77.84,0.0,77.84,8,1,4
+C10310,2025-04-23 22:52:15.135135136,Thailand,Home & Kitchen,Mobile App,PayPal,2,122.45,0.05,232.65,0,0,4
+C10311,2025-04-24 07:36:56.216216216,India,Electronics,Marketplace,Mobile Payment,5,235.78,0.0,1178.89,0,0,5
+C10312,2025-04-24 16:21:37.297297298,UK,Electronics,Mobile App,Credit Card,1,162.47,0.0,162.47,0,0,4
+C10313,2025-04-25 01:06:18.378378378,India,Sports,Mobile App,Mobile Payment,3,87.38,0.2,209.71,0,0,4
+C10314,2025-04-25 09:50:59.459459460,UK,Beauty,Marketplace,PayPal,4,50.49,0.05,191.87,0,0,1
+C10315,2025-04-25 18:35:40.540540540,Germany,Clothing,Website,Debit Card,4,76.48,0.0,305.93,0,0,4
+C10316,2025-04-26 03:20:21.621621622,UK,Home & Kitchen,Website,Debit Card,3,100.66,0.2,241.59,0,0,5
+C10317,2025-04-26 12:05:02.702702704,Australia,Electronics,Website,Mobile Payment,2,136.33,0.2,218.12,0,0,2
+C10318,2025-04-26 20:49:43.783783784,Thailand,Electronics,Website,Debit Card,5,207.5,0.05,985.63,0,0,4
+C10319,2025-04-27 05:34:24.864864866,Thailand,Home & Kitchen,Website,PayPal,4,102.37,0.0,409.49,0,0,5
+C10320,2025-04-27 14:19:05.945945946,Thailand,Clothing,Marketplace,Mobile Payment,3,63.08,0.15,160.85,0,0,4
+C10321,2025-04-27 23:03:47.027027028,Thailand,Electronics,Mobile App,Debit Card,3,36.6,0.1,98.82,3,0,3
+C10322,2025-04-28 07:48:28.108108108,India,Clothing,Mobile App,Credit Card,2,71.6,0.1,128.88,0,0,4
+C10323,2025-04-28 16:33:09.189189190,Thailand,Home & Kitchen,Website,Credit Card,2,123.45,0.15,209.86,0,0,3
+C10324,2025-04-29 01:17:50.270270270,Canada,Sports,Marketplace,PayPal,1,59.67,0.1,53.7,3,0,5
+C10325,2025-04-29 10:02:31.351351352,USA,Beauty,Marketplace,Debit Card,4,30.47,0.0,121.87,0,0,2
+C10326,2025-04-29 18:47:12.432432432,Thailand,Clothing,Marketplace,PayPal,1,45.99,0.1,41.39,8,0,5
+C10327,2025-04-30 03:31:53.513513514,India,Clothing,Website,Mobile Payment,3,70.09,0.0,210.27,0,0,4
+C10328,2025-04-30 12:16:34.594594594,Germany,Home & Kitchen,Mobile App,Credit Card,5,105.63,0.1,475.33,0,0,5
+C10329,2025-04-30 21:01:15.675675676,UK,Electronics,Website,Mobile Payment,5,206.14,0.1,927.64,0,0,3
+C10330,2025-05-01 05:45:56.756756758,UK,Home & Kitchen,Website,Debit Card,2,88.31,0.0,176.63,0,0,4
+C10331,2025-05-01 14:30:37.837837838,Australia,Beauty,Website,PayPal,5,44.18,0.05,209.85,0,0,4
+C10332,2025-05-01 23:15:18.918918920,Thailand,Electronics,Mobile App,PayPal,5,164.79,0.0,823.96,0,0,4
+C10333,2025-05-02 08:00:00.000000000,Canada,Electronics,Mobile App,PayPal,5,186.13,0.0,930.64,0,0,4
+C10334,2025-05-02 16:44:41.081081082,Canada,Electronics,Website,Mobile Payment,3,225.93,0.1,610.0,0,0,5
+C10335,2025-05-03 01:29:22.162162162,Germany,Electronics,Website,Credit Card,5,249.64,0.0,1248.18,0,0,5
+C10336,2025-05-03 10:14:03.243243244,Thailand,Sports,Mobile App,Mobile Payment,5,94.69,0.1,426.11,0,0,2
+C10337,2025-05-03 18:58:44.324324324,Australia,Beauty,Website,Mobile Payment,5,54.15,0.0,270.74,0,0,1
+C10338,2025-05-04 03:43:25.405405406,Thailand,Clothing,Website,Debit Card,1,53.99,0.1,48.59,8,0,5
+C10339,2025-05-04 12:28:06.486486486,Thailand,Electronics,Website,Debit Card,3,185.07,0.15,471.92,0,0,2
+C10340,2025-05-04 21:12:47.567567568,Thailand,Clothing,Mobile App,Debit Card,2,65.67,0.1,118.2,0,0,5
+C10341,2025-05-05 05:57:28.648648648,UK,Clothing,Website,Credit Card,1,74.0,0.05,70.3,3,0,4
+C10342,2025-05-05 14:42:09.729729730,India,Electronics,Website,Credit Card,4,143.89,0.2,460.45,0,0,4
+C10343,2025-05-05 23:26:50.810810812,Australia,Home & Kitchen,Website,Debit Card,3,82.17,0.0,246.5,0,0,3
+C10344,2025-05-06 08:11:31.891891892,Australia,Home & Kitchen,Marketplace,Debit Card,3,71.77,0.0,215.32,0,0,3
+C10345,2025-05-06 16:56:12.972972974,USA,Clothing,Mobile App,Credit Card,4,62.06,0.05,235.84,0,0,4
+C10346,2025-05-07 01:40:54.054054054,USA,Clothing,Mobile App,PayPal,4,50.29,0.0,201.17,0,0,5
+C10347,2025-05-07 10:25:35.135135136,USA,Electronics,Website,Credit Card,4,167.09,0.2,534.69,0,1,5
+C10348,2025-05-07 19:10:16.216216216,Canada,Home & Kitchen,Mobile App,Credit Card,2,67.47,0.0,134.94,0,0,3
+C10349,2025-05-08 03:54:57.297297298,Thailand,Clothing,Website,Credit Card,5,51.97,0.1,233.85,0,0,3
+C10350,2025-05-08 12:39:38.378378378,India,Clothing,Mobile App,Debit Card,3,71.71,0.1,193.61,0,0,2
+C10351,2025-05-08 21:24:19.459459460,Germany,Sports,Marketplace,PayPal,5,60.42,0.0,302.1,0,0,5
+C10352,2025-05-09 06:09:00.540540540,USA,Clothing,Mobile App,Credit Card,5,65.26,0.1,293.69,0,1,3
+C10353,2025-05-09 14:53:41.621621622,Australia,Electronics,Marketplace,Debit Card,4,205.33,0.0,821.33,0,0,1
+C10354,2025-05-09 23:38:22.702702704,UK,Electronics,Mobile App,Mobile Payment,2,234.8,0.05,446.12,0,0,3
+C10355,2025-05-10 08:23:03.783783784,India,Clothing,Website,Mobile Payment,1,43.59,0.0,43.59,10,0,4
+C10356,2025-05-10 17:07:44.864864866,Canada,Electronics,Marketplace,Credit Card,2,249.18,0.15,423.6,0,0,5
+C10357,2025-05-11 01:52:25.945945946,USA,Clothing,Website,Mobile Payment,5,60.93,0.2,243.72,0,0,4
+C10358,2025-05-11 10:37:07.027027028,Thailand,Sports,Mobile App,PayPal,2,97.78,0.0,195.56,0,0,3
+C10359,2025-05-11 19:21:48.108108108,Germany,Clothing,Website,Mobile Payment,4,73.59,0.0,294.37,0,0,4
+C10360,2025-05-12 04:06:29.189189190,Canada,Home & Kitchen,Website,Mobile Payment,1,76.96,0.1,69.26,8,0,4
+C10361,2025-05-12 12:51:10.270270270,Thailand,Clothing,Website,PayPal,4,40.66,0.0,162.65,0,0,1
+C10362,2025-05-12 21:35:51.351351352,Germany,Home & Kitchen,Website,Credit Card,1,79.11,0.15,67.24,3,0,3
+C10363,2025-05-13 06:20:32.432432432,Germany,Clothing,Mobile App,Credit Card,5,58.81,0.1,264.65,0,0,4
+C10364,2025-05-13 15:05:13.513513514,Australia,Sports,Mobile App,PayPal,1,57.41,0.05,54.54,10,0,3
+C10365,2025-05-13 23:49:54.594594594,Thailand,Home & Kitchen,Website,PayPal,1,73.55,0.15,62.52,10,0,3
+C10366,2025-05-14 08:34:35.675675676,Australia,Sports,Website,PayPal,1,71.67,0.05,68.08,3,0,4
+C10367,2025-05-14 17:19:16.756756758,Canada,Sports,Mobile App,Mobile Payment,2,50.63,0.15,86.07,10,0,5
+C10368,2025-05-15 02:03:57.837837838,Thailand,Electronics,Website,PayPal,2,141.36,0.15,240.31,0,0,4
+C10369,2025-05-15 10:48:38.918918920,Thailand,Electronics,Mobile App,Debit Card,5,178.4,0.0,891.99,0,0,4
+C10370,2025-05-15 19:33:20.000000000,Canada,Electronics,Mobile App,Mobile Payment,1,133.95,0.0,133.95,0,0,4
+C10371,2025-05-16 04:18:01.081081082,Thailand,Electronics,Marketplace,Credit Card,3,175.99,0.2,422.38,0,0,4
+C10372,2025-05-16 13:02:42.162162162,India,Electronics,Mobile App,Credit Card,5,185.72,0.15,789.33,0,0,1
+C10373,2025-05-16 21:47:23.243243244,UK,Clothing,Website,Credit Card,1,55.87,0.0,55.87,10,0,5
+C10374,2025-05-17 06:32:04.324324324,Thailand,Electronics,Mobile App,Mobile Payment,1,235.52,0.15,200.19,0,0,2
+C10375,2025-05-17 15:16:45.405405406,India,Home & Kitchen,Website,Debit Card,2,96.39,0.05,183.15,0,0,4
+C10376,2025-05-18 00:01:26.486486486,USA,Beauty,Website,PayPal,5,41.1,0.0,205.52,0,0,5
+C10377,2025-05-18 08:46:07.567567568,UK,Electronics,Mobile App,PayPal,1,177.75,0.15,151.09,0,0,4
+C10378,2025-05-18 17:30:48.648648650,USA,Beauty,Website,Credit Card,1,50.89,0.0,50.89,8,0,5
+C10379,2025-05-19 02:15:29.729729730,Germany,Home & Kitchen,Mobile App,Credit Card,5,119.39,0.15,507.4,0,0,4
+C10380,2025-05-19 11:00:10.810810812,Thailand,Electronics,Marketplace,Mobile Payment,3,233.51,0.0,700.53,0,0,5
+C10381,2025-05-19 19:44:51.891891892,USA,Clothing,Marketplace,Debit Card,5,64.43,0.1,289.94,0,1,5
+C10382,2025-05-20 04:29:32.972972974,Canada,Clothing,Marketplace,PayPal,5,43.79,0.0,218.94,0,0,5
+C10383,2025-05-20 13:14:14.054054054,Thailand,Sports,Website,Mobile Payment,3,62.57,0.05,178.31,0,0,5
+C10384,2025-05-20 21:58:55.135135136,Germany,Beauty,Website,PayPal,5,29.29,0.1,131.8,0,0,5
+C10385,2025-05-21 06:43:36.216216216,USA,Beauty,Mobile App,Credit Card,1,54.06,0.0,54.06,8,0,5
+C10386,2025-05-21 15:28:17.297297298,India,Home & Kitchen,Website,PayPal,5,104.63,0.05,496.99,0,0,4
+C10387,2025-05-22 00:12:58.378378378,Thailand,Electronics,Mobile App,Debit Card,3,220.04,0.05,627.12,0,0,2
+C10388,2025-05-22 08:57:39.459459460,Canada,Beauty,Mobile App,Debit Card,4,36.72,0.0,146.9,0,0,4
+C10389,2025-05-22 17:42:20.540540540,UK,Beauty,Mobile App,Credit Card,5,51.68,0.15,219.63,0,0,5
+C10390,2025-05-23 02:27:01.621621622,Thailand,Sports,Website,Debit Card,2,61.72,0.0,123.44,0,0,5
+C10391,2025-05-23 11:11:42.702702704,Thailand,Home & Kitchen,Website,Debit Card,1,63.1,0.1,56.79,3,0,5
+C10392,2025-05-23 19:56:23.783783784,Thailand,Home & Kitchen,Website,Mobile Payment,1,86.71,0.05,82.38,3,1,5
+C10393,2025-05-24 04:41:04.864864866,UK,Beauty,Website,PayPal,2,43.98,0.05,83.56,3,0,3
+C10394,2025-05-24 13:25:45.945945946,USA,Home & Kitchen,Marketplace,Credit Card,2,93.16,0.0,186.32,0,0,3
+C10395,2025-05-24 22:10:27.027027028,India,Sports,Website,Credit Card,5,91.24,0.05,433.4,0,1,4
+C10396,2025-05-25 06:55:08.108108108,USA,Sports,Website,Credit Card,2,54.16,0.05,102.91,0,0,3
+C10397,2025-05-25 15:39:49.189189190,Thailand,Home & Kitchen,Website,Credit Card,4,97.89,0.1,352.41,0,0,4
+C10398,2025-05-26 00:24:30.270270270,Germany,Beauty,Mobile App,Credit Card,3,42.36,0.15,108.03,0,0,5
+C10399,2025-05-26 09:09:11.351351352,Australia,Beauty,Mobile App,Debit Card,2,35.88,0.05,68.17,5,0,5
+C10400,2025-05-26 17:53:52.432432432,Thailand,Electronics,Website,Mobile Payment,2,229.6,0.0,459.2,0,0,4
+C10401,2025-05-27 02:38:33.513513514,Thailand,Sports,Website,Credit Card,4,85.89,0.0,343.56,0,0,1
+C10402,2025-05-27 11:23:14.594594594,Thailand,Clothing,Website,Mobile Payment,1,66.72,0.0,66.72,3,0,4
+C10403,2025-05-27 20:07:55.675675676,Australia,Beauty,Website,Mobile Payment,1,52.53,0.0,52.53,5,0,4
+C10404,2025-05-28 04:52:36.756756758,Germany,Home & Kitchen,Mobile App,Debit Card,5,108.54,0.05,515.54,0,0,4
+C10405,2025-05-28 13:37:17.837837838,UK,Sports,Mobile App,Credit Card,4,60.36,0.0,241.44,0,0,2
+C10406,2025-05-28 22:21:58.918918920,India,Home & Kitchen,Website,Debit Card,3,107.45,0.0,322.35,0,0,4
+C10407,2025-05-29 07:06:40.000000000,India,Electronics,Website,Credit Card,3,164.77,0.0,494.31,0,0,3
+C10408,2025-05-29 15:51:21.081081082,Germany,Sports,Marketplace,Debit Card,4,60.87,0.0,243.47,0,0,5
+C10409,2025-05-30 00:36:02.162162162,India,Electronics,Mobile App,Mobile Payment,3,135.2,0.0,405.6,0,0,2
+C10410,2025-05-30 09:20:43.243243244,Thailand,Home & Kitchen,Mobile App,Credit Card,1,109.87,0.0,109.87,0,0,2
+C10411,2025-05-30 18:05:24.324324324,Thailand,Sports,Website,PayPal,3,83.84,0.05,238.94,0,1,1
+C10412,2025-05-31 02:50:05.405405406,Thailand,Sports,Mobile App,Mobile Payment,3,60.49,0.05,172.4,0,0,4
+C10413,2025-05-31 11:34:46.486486486,Thailand,Clothing,Website,PayPal,4,67.35,0.0,269.4,0,0,4
+C10414,2025-05-31 20:19:27.567567568,UK,Clothing,Mobile App,Mobile Payment,4,73.84,0.05,280.58,0,0,5
+C10415,2025-06-01 05:04:08.648648650,Canada,Home & Kitchen,Marketplace,Debit Card,3,69.81,0.0,209.42,0,0,4
+C10416,2025-06-01 13:48:49.729729730,Thailand,Home & Kitchen,Website,Credit Card,2,77.66,0.0,155.31,0,0,4
+C10417,2025-06-01 22:33:30.810810812,Thailand,Home & Kitchen,Website,Mobile Payment,4,110.27,0.0,441.07,0,0,4
+C10418,2025-06-02 07:18:11.891891892,UK,Clothing,Website,Debit Card,5,49.07,0.05,233.08,0,0,4
+C10419,2025-06-02 16:02:52.972972974,Canada,Beauty,Website,Credit Card,5,45.49,0.1,204.71,0,0,2
+C10420,2025-06-03 00:47:34.054054054,USA,Beauty,Website,Credit Card,1,30.27,0.0,30.27,5,0,4
+C10421,2025-06-03 09:32:15.135135136,UK,Beauty,Website,Mobile Payment,3,40.66,0.0,121.99,0,0,5
+C10422,2025-06-03 18:16:56.216216216,Thailand,Electronics,Mobile App,Credit Card,2,219.13,0.15,372.51,0,0,5
+C10423,2025-06-04 03:01:37.297297298,Thailand,Clothing,Mobile App,Mobile Payment,1,64.93,0.0,64.93,5,0,5
+C10424,2025-06-04 11:46:18.378378378,Canada,Electronics,Website,Credit Card,3,228.7,0.0,686.1,0,0,3
+C10425,2025-06-04 20:30:59.459459460,Canada,Clothing,Marketplace,PayPal,4,72.28,0.15,245.76,0,0,3
+C10426,2025-06-05 05:15:40.540540540,Thailand,Home & Kitchen,Website,Debit Card,5,111.71,0.15,474.77,0,0,5
+C10427,2025-06-05 14:00:21.621621622,Canada,Sports,Marketplace,PayPal,2,81.91,0.05,155.62,0,0,2
+C10428,2025-06-05 22:45:02.702702704,Germany,Home & Kitchen,Website,Mobile Payment,5,65.0,0.05,308.74,0,1,3
+C10429,2025-06-06 07:29:43.783783784,India,Electronics,Marketplace,PayPal,4,193.41,0.0,773.62,0,1,3
+C10430,2025-06-06 16:14:24.864864866,UK,Electronics,Mobile App,Mobile Payment,3,130.75,0.0,392.25,0,0,4
+C10431,2025-06-07 00:59:05.945945946,UK,Beauty,Marketplace,Credit Card,4,50.63,0.1,182.25,0,0,3
+C10432,2025-06-07 09:43:47.027027028,UK,Clothing,Marketplace,Credit Card,4,50.85,0.0,203.39,0,0,4
+C10433,2025-06-07 18:28:28.108108108,Germany,Electronics,Website,Mobile Payment,5,196.87,0.05,935.11,0,0,4
+C10434,2025-06-08 03:13:09.189189190,Thailand,Electronics,Marketplace,PayPal,2,161.21,0.15,274.06,0,0,5
+C10435,2025-06-08 11:57:50.270270270,Thailand,Beauty,Website,Credit Card,4,49.91,0.2,159.71,0,0,1
+C10436,2025-06-08 20:42:31.351351352,USA,Electronics,Website,Debit Card,5,237.7,0.0,1188.5,0,0,4
+C10437,2025-06-09 05:27:12.432432432,Australia,Beauty,Website,Credit Card,2,39.16,0.1,70.49,8,0,4
+C10438,2025-06-09 14:11:53.513513514,Thailand,Beauty,Mobile App,Debit Card,3,52.16,0.05,148.66,0,0,4
+C10439,2025-06-09 22:56:34.594594596,Australia,Electronics,Website,PayPal,3,159.65,0.15,407.11,0,0,4
+C10440,2025-06-10 07:41:15.675675676,Canada,Electronics,Mobile App,Debit Card,1,193.37,0.0,193.37,0,0,5
+C10441,2025-06-10 16:25:56.756756758,Thailand,Sports,Mobile App,Debit Card,5,91.08,0.0,455.4,0,0,2
+C10442,2025-06-11 01:10:37.837837838,Australia,Home & Kitchen,Mobile App,Debit Card,2,83.53,0.0,167.06,0,0,5
+C10443,2025-06-11 09:55:18.918918920,USA,Home & Kitchen,Marketplace,Debit Card,4,123.1,0.0,492.42,0,0,4
+C10444,2025-06-11 18:40:00.000000000,India,Beauty,Website,Credit Card,3,31.41,0.0,94.24,3,0,3
+C10445,2025-06-12 03:24:41.081081082,Thailand,Sports,Website,Debit Card,2,49.9,0.1,89.81,3,0,5
+C10446,2025-06-12 12:09:22.162162162,Australia,Sports,Website,Credit Card,5,93.3,0.1,419.86,0,0,4
+C10447,2025-06-12 20:54:03.243243244,India,Beauty,Website,Debit Card,1,29.92,0.0,29.92,10,0,3
+C10448,2025-06-13 05:38:44.324324324,Canada,Home & Kitchen,Website,Mobile Payment,3,125.49,0.05,357.64,0,0,1
+C10449,2025-06-13 14:23:25.405405406,Australia,Electronics,Website,PayPal,2,245.88,0.0,491.75,0,0,3
+C10450,2025-06-13 23:08:06.486486486,UK,Beauty,Website,Debit Card,2,31.84,0.0,54.12,8,1,4
+C10451,2025-06-14 07:52:47.567567568,Germany,Clothing,Marketplace,Mobile Payment,2,59.2,0.15,100.63,0,0,3
+C10452,2025-06-14 16:37:28.648648650,India,Home & Kitchen,Mobile App,Debit Card,5,74.65,0.2,298.6,0,0,3
+C10453,2025-06-15 01:22:09.729729730,Germany,Sports,Website,Debit Card,5,69.98,0.15,297.41,0,0,1
+C10454,2025-06-15 10:06:50.810810812,Thailand,Electronics,Mobile App,Debit Card,5,133.74,0.0,668.7,0,0,5
+C10455,2025-06-15 18:51:31.891891892,Canada,Clothing,Website,Mobile Payment,4,47.12,0.0,188.48,0,0,5
+C10456,2025-06-16 03:36:12.972972974,Australia,Electronics,Website,PayPal,2,171.77,0.1,309.19,0,0,5
+C10457,2025-06-16 12:20:54.054054054,Australia,Home & Kitchen,Mobile App,Mobile Payment,3,90.63,0.15,231.12,0,0,3
+C10458,2025-06-16 21:05:35.135135136,Thailand,Electronics,Mobile App,PayPal,5,249.16,0.0,1245.82,0,0,5
+C10459,2025-06-17 05:50:16.216216216,Germany,Electronics,Website,Debit Card,5,227.79,0.0,1138.96,0,1,4
+C10460,2025-06-17 14:34:57.297297298,USA,Electronics,Marketplace,Credit Card,2,218.91,0.15,372.15,0,0,5
+C10461,2025-06-17 23:19:38.378378378,Germany,Clothing,Marketplace,Debit Card,5,59.18,0.0,295.88,0,0,4
+C10462,2025-06-18 08:04:19.459459460,Thailand,Beauty,Mobile App,PayPal,4,51.52,0.05,195.78,0,1,4
+C10463,2025-06-18 16:49:00.540540540,Germany,Clothing,Mobile App,Mobile Payment,4,51.56,0.1,185.63,0,0,5
+C10464,2025-06-19 01:33:41.621621622,Canada,Sports,Mobile App,Debit Card,5,83.74,0.0,418.68,0,0,2
+C10465,2025-06-19 10:18:22.702702704,Thailand,Home & Kitchen,Website,Mobile Payment,2,125.61,0.0,251.22,0,0,4
+C10466,2025-06-19 19:03:03.783783784,Canada,Home & Kitchen,Website,Mobile Payment,2,82.82,0.1,149.08,0,0,5
+C10467,2025-06-20 03:47:44.864864866,USA,Sports,Website,Mobile Payment,2,82.03,0.1,147.65,0,0,5
+C10468,2025-06-20 12:32:25.945945946,India,Electronics,Mobile App,Debit Card,1,232.38,0.2,185.91,0,0,5
+C10469,2025-06-20 21:17:07.027027028,India,Sports,Mobile App,Mobile Payment,5,93.87,0.0,469.37,0,0,4
+C10470,2025-06-21 06:01:48.108108108,UK,Electronics,Website,Mobile Payment,2,216.46,0.0,432.92,0,1,3
+C10471,2025-06-21 14:46:29.189189190,Australia,Sports,Marketplace,Debit Card,4,62.9,0.1,226.43,0,0,1
+C10472,2025-06-21 23:31:10.270270270,India,Electronics,Marketplace,Mobile Payment,3,167.11,0.05,476.27,0,0,4
+C10473,2025-06-22 08:15:51.351351352,USA,Sports,Mobile App,Debit Card,3,50.02,0.0,150.05,0,0,4
+C10474,2025-06-22 17:00:32.432432432,USA,Clothing,Mobile App,PayPal,2,67.79,0.1,122.03,0,0,3
+C10475,2025-06-23 01:45:13.513513514,Germany,Sports,Marketplace,PayPal,3,51.09,0.0,153.28,0,0,3
+C10476,2025-06-23 10:29:54.594594596,India,Electronics,Website,PayPal,3,234.95,0.0,704.84,0,0,4
+C10477,2025-06-23 19:14:35.675675676,Australia,Clothing,Mobile App,Mobile Payment,1,43.07,0.0,43.07,3,0,5
+C10478,2025-06-24 03:59:16.756756758,India,Sports,Website,Credit Card,4,57.42,0.05,218.2,0,0,5
+C10479,2025-06-24 12:43:57.837837838,USA,Clothing,Mobile App,Credit Card,4,56.85,0.05,216.02,0,0,5
+C10480,2025-06-24 21:28:38.918918920,India,Clothing,Website,Mobile Payment,1,66.91,0.05,63.56,8,0,5
+C10481,2025-06-25 06:13:20.000000000,Thailand,Clothing,Marketplace,Credit Card,1,43.85,0.1,39.47,3,0,4
+C10482,2025-06-25 14:58:01.081081082,UK,Home & Kitchen,Marketplace,Debit Card,3,90.72,0.15,231.35,0,0,5
+C10483,2025-06-25 23:42:42.162162162,Thailand,Clothing,Website,Credit Card,5,57.09,0.0,285.45,0,0,4
+C10484,2025-06-26 08:27:23.243243244,USA,Clothing,Mobile App,Mobile Payment,3,46.67,0.0,140.02,0,0,5
+C10485,2025-06-26 17:12:04.324324324,USA,Sports,Marketplace,Mobile Payment,1,54.66,0.0,54.66,10,0,5
+C10486,2025-06-27 01:56:45.405405406,USA,Electronics,Mobile App,Debit Card,4,231.39,0.0,925.56,0,0,5
+C10487,2025-06-27 10:41:26.486486486,Australia,Home & Kitchen,Marketplace,PayPal,3,94.66,0.1,255.57,0,1,4
+C10488,2025-06-27 19:26:07.567567568,USA,Sports,Mobile App,Mobile Payment,5,49.7,0.1,223.67,0,0,2
+C10489,2025-06-28 04:10:48.648648650,USA,Sports,Website,Debit Card,3,88.35,0.1,238.53,0,0,3
+C10490,2025-06-28 12:55:29.729729730,Thailand,Home & Kitchen,Website,Credit Card,2,124.79,0.0,249.58,0,0,2
+C10491,2025-06-28 21:40:10.810810812,USA,Clothing,Website,Credit Card,3,61.83,0.0,185.48,0,0,2
+C10492,2025-06-29 06:24:51.891891892,Thailand,Home & Kitchen,Mobile App,Debit Card,1,94.73,0.05,90.0,5,0,3
+C10493,2025-06-29 15:09:32.972972974,Thailand,Electronics,Website,Debit Card,4,236.68,0.0,946.72,0,0,4
+C10494,2025-06-29 23:54:14.054054054,Germany,Home & Kitchen,Mobile App,Mobile Payment,4,123.01,0.1,442.83,0,0,4
+C10495,2025-06-30 08:38:55.135135136,Germany,Home & Kitchen,Mobile App,Credit Card,1,110.54,0.2,88.43,10,0,5
+C10496,2025-06-30 17:23:36.216216216,Germany,Clothing,Mobile App,Debit Card,2,55.65,0.05,105.73,0,0,3
+C10497,2025-07-01 02:08:17.297297298,UK,Electronics,Marketplace,Credit Card,1,200.62,0.1,180.56,0,0,4
+C10498,2025-07-01 10:52:58.378378378,USA,Sports,Marketplace,Debit Card,3,83.35,0.05,237.54,0,0,5
+C10499,2025-07-01 19:37:39.459459460,India,Sports,Website,Credit Card,1,58.52,0.0,58.52,10,0,4
+C10500,2025-07-02 04:22:20.540540542,UK,Clothing,Marketplace,PayPal,1,55.72,0.1,50.15,10,0,5
+C10501,2025-07-02 13:07:01.621621622,unknown,Clothing,Mobile App,Mobile Payment,2,70.45,0.0,140.9,0,0,2
+C10502,2025-07-02 21:51:42.702702704,Thailand,Home & Kitchen,Mobile App,Credit Card,3,104.25,0.0,312.74,0,0,3
+C10503,2025-07-03 06:36:23.783783784,USA,Beauty,Marketplace,PayPal,5,39.51,0.1,177.81,0,0,4
+C10504,2025-07-03 15:21:04.864864866,USA,Clothing,Website,Credit Card,5,64.04,0.15,272.17,0,0,3
+C10505,2025-07-04 00:05:45.945945946,USA,Electronics,Website,Credit Card,4,140.9,0.0,563.58,0,0,4
+C10506,2025-07-04 08:50:27.027027028,Germany,Sports,Marketplace,PayPal,1,68.67,0.05,65.24,5,1,4
+C10507,2025-07-04 17:35:08.108108108,UK,Beauty,Website,Credit Card,4,50.21,0.15,170.71,0,0,3
+C10508,2025-07-05 02:19:49.189189190,Germany,Sports,Marketplace,Credit Card,2,59.8,0.15,101.67,0,0,3
+C10509,2025-07-05 11:04:30.270270270,Australia,Beauty,Marketplace,Mobile Payment,5,33.21,0.1,149.43,0,0,4
+C10510,2025-07-05 19:49:11.351351352,India,Clothing,Website,PayPal,1,75.11,0.0,75.11,5,1,4
+C10511,2025-07-06 04:33:52.432432432,Australia,Home & Kitchen,Marketplace,PayPal,2,76.22,0.15,129.58,0,0,4
+C10512,2025-07-06 13:18:33.513513514,Canada,Sports,Website,Debit Card,2,61.79,0.0,123.57,0,0,3
+C10513,2025-07-06 22:03:14.594594596,Thailand,Sports,Mobile App,Credit Card,1,96.51,0.1,86.86,5,0,3
+C10514,2025-07-07 06:47:55.675675676,Thailand,Electronics,Mobile App,Mobile Payment,2,218.57,0.0,437.15,0,0,1
+C10515,2025-07-07 15:32:36.756756758,Thailand,Electronics,Marketplace,Credit Card,1,214.15,0.1,192.73,0,0,1
+C10516,2025-07-08 00:17:17.837837838,Germany,Home & Kitchen,Website,Credit Card,1,116.73,0.0,116.73,0,0,5
+C10517,2025-07-08 09:01:58.918918920,India,Beauty,Mobile App,Debit Card,3,31.24,0.05,89.04,3,0,2
+C10518,2025-07-08 17:46:40.000000000,Thailand,Sports,Mobile App,Credit Card,4,83.59,0.0,334.37,0,0,5
+C10519,2025-07-09 02:31:21.081081082,Canada,Electronics,Mobile App,Mobile Payment,2,189.46,0.0,378.93,0,0,5
+C10520,2025-07-09 11:16:02.162162162,Thailand,Clothing,Mobile App,Mobile Payment,2,70.42,0.1,126.76,0,0,2
+C10521,2025-07-09 20:00:43.243243244,Canada,Home & Kitchen,Website,Debit Card,3,95.01,0.15,242.28,0,0,4
+C10522,2025-07-10 04:45:24.324324324,USA,Sports,Website,Credit Card,3,79.39,0.2,190.54,0,0,5
+C10523,2025-07-10 13:30:05.405405406,Thailand,Beauty,Website,Mobile Payment,3,41.38,0.0,124.13,0,0,5
+C10524,2025-07-10 22:14:46.486486486,UK,Beauty,Marketplace,Credit Card,5,41.39,0.1,186.25,0,0,4
+C10525,2025-07-11 06:59:27.567567568,Thailand,Home & Kitchen,Website,Credit Card,5,111.38,0.1,501.22,0,1,5
+C10526,2025-07-11 15:44:08.648648650,Thailand,Home & Kitchen,Website,Credit Card,5,102.6,0.0,513.0,0,0,5
+C10527,2025-07-12 00:28:49.729729730,USA,Home & Kitchen,Marketplace,Debit Card,1,102.9,0.0,102.9,0,0,4
+C10528,2025-07-12 09:13:30.810810812,India,Electronics,Website,Credit Card,2,182.74,0.1,328.92,0,0,5
+C10529,2025-07-12 17:58:11.891891892,UK,Sports,Marketplace,Mobile Payment,4,75.02,0.15,255.08,0,0,4
+C10530,2025-07-13 02:42:52.972972974,USA,Beauty,Mobile App,Credit Card,1,48.88,0.1,43.99,3,0,4
+C10531,2025-07-13 11:27:34.054054054,Germany,Sports,Marketplace,Mobile Payment,2,89.47,0.05,170.0,0,0,5
+C10532,2025-07-13 20:12:15.135135136,Australia,Sports,Website,Credit Card,2,83.13,0.05,157.95,0,0,5
+C10533,2025-07-14 04:56:56.216216216,Thailand,Clothing,Website,Mobile Payment,3,74.08,0.0,222.23,0,0,4
+C10534,2025-07-14 13:41:37.297297298,USA,Beauty,Mobile App,Mobile Payment,3,50.97,0.1,137.62,0,0,1
+C10535,2025-07-14 22:26:18.378378378,Thailand,Sports,Marketplace,Credit Card,1,76.53,0.1,68.88,5,0,4
+C10536,2025-07-15 07:10:59.459459460,Thailand,Beauty,Mobile App,Credit Card,3,46.8,0.0,140.4,0,0,5
+C10537,2025-07-15 15:55:40.540540542,Australia,Electronics,Website,Mobile Payment,2,242.71,0.15,412.62,0,0,4
+C10538,2025-07-16 00:40:21.621621622,Thailand,Home & Kitchen,Mobile App,PayPal,3,102.01,0.0,306.02,0,0,5
+C10539,2025-07-16 09:25:02.702702704,UK,Electronics,Mobile App,Debit Card,5,229.93,0.2,919.7,0,0,5
+C10540,2025-07-16 18:09:43.783783784,Australia,Sports,Mobile App,PayPal,3,82.75,0.05,235.84,0,0,4
+C10541,2025-07-17 02:54:24.864864866,Thailand,Clothing,Mobile App,PayPal,2,59.75,0.0,119.5,0,0,2
+C10542,2025-07-17 11:39:05.945945946,UK,Electronics,Marketplace,Credit Card,1,156.47,0.05,148.65,0,0,4
+C10543,2025-07-17 20:23:47.027027028,Thailand,Clothing,Mobile App,Debit Card,4,54.9,0.05,208.62,0,0,4
+C10544,2025-07-18 05:08:28.108108108,Canada,Clothing,Website,PayPal,3,75.76,0.0,227.27,0,0,4
+C10545,2025-07-18 13:53:09.189189190,UK,Home & Kitchen,Mobile App,Credit Card,2,104.44,0.1,187.99,0,0,4
+C10546,2025-07-18 22:37:50.270270270,India,Electronics,Website,PayPal,4,197.11,0.1,709.61,0,0,4
+C10547,2025-07-19 07:22:31.351351352,UK,Clothing,Website,PayPal,4,74.42,0.1,267.91,0,0,3
+C10548,2025-07-19 16:07:12.432432432,Thailand,Clothing,Website,Credit Card,5,61.08,0.0,305.4,0,0,3
+C10549,2025-07-20 00:51:53.513513514,Germany,Beauty,Website,Credit Card,4,42.73,0.05,162.38,0,0,4
+C10550,2025-07-20 09:36:34.594594596,Canada,Clothing,Website,Credit Card,2,67.73,0.0,135.47,0,0,3
+C10551,2025-07-20 18:21:15.675675676,Germany,Sports,Website,Debit Card,2,83.92,0.1,151.06,0,0,4
+C10552,2025-07-21 03:05:56.756756758,India,Clothing,Marketplace,PayPal,3,45.94,0.0,137.81,0,0,4
+C10553,2025-07-21 11:50:37.837837838,India,Clothing,Marketplace,Credit Card,3,56.65,0.15,144.45,0,0,4
+C10554,2025-07-21 20:35:18.918918920,Thailand,Sports,Website,Mobile Payment,3,72.15,0.1,194.81,0,0,2
+C10555,2025-07-22 05:20:00.000000000,Thailand,Home & Kitchen,Marketplace,PayPal,4,86.83,0.05,329.95,0,0,5
+C10556,2025-07-22 14:04:41.081081082,Germany,Electronics,Mobile App,Mobile Payment,4,191.18,0.05,726.48,0,0,4
+C10557,2025-07-22 22:49:22.162162162,USA,Electronics,Website,Debit Card,5,178.05,0.0,890.26,0,0,4
+C10558,2025-07-23 07:34:03.243243244,India,Beauty,Website,Credit Card,3,33.58,0.0,100.75,0,0,5
+C10559,2025-07-23 16:18:44.324324324,Canada,Clothing,Mobile App,Mobile Payment,1,54.38,0.15,46.22,10,0,3
+C10560,2025-07-24 01:03:25.405405406,USA,Beauty,Mobile App,Debit Card,5,30.02,0.15,127.6,0,0,4
+C10561,2025-07-24 09:48:06.486486488,Thailand,Electronics,Mobile App,Credit Card,1,198.55,0.0,198.55,0,0,5
+C10562,2025-07-24 18:32:47.567567568,India,Electronics,Website,Mobile Payment,4,233.56,0.1,840.82,0,0,5
+C10563,2025-07-25 03:17:28.648648650,Thailand,Electronics,Website,Mobile Payment,5,217.39,0.1,978.24,0,0,5
+C10564,2025-07-25 12:02:09.729729730,India,Home & Kitchen,Website,Debit Card,5,85.7,0.1,385.67,0,0,5
+C10565,2025-07-25 20:46:50.810810812,USA,Clothing,Website,Credit Card,2,41.85,0.0,83.7,5,0,3
+C10566,2025-07-26 05:31:31.891891892,Germany,Home & Kitchen,Website,Credit Card,4,75.74,0.0,302.94,0,0,2
+C10567,2025-07-26 14:16:12.972972974,Thailand,Home & Kitchen,Website,Mobile Payment,4,97.37,0.0,389.46,0,0,4
+C10568,2025-07-26 23:00:54.054054054,Germany,Sports,Marketplace,Mobile Payment,5,59.15,0.15,251.37,0,0,4
+C10569,2025-07-27 07:45:35.135135136,UK,Home & Kitchen,Marketplace,Mobile Payment,4,97.27,0.05,369.63,0,0,3
+C10570,2025-07-27 16:30:16.216216216,Germany,Clothing,Website,Credit Card,5,47.42,0.05,225.23,0,0,5
+C10571,2025-07-28 01:14:57.297297298,Thailand,Beauty,Marketplace,Debit Card,2,51.77,0.15,88.01,5,0,4
+C10572,2025-07-28 09:59:38.378378378,Australia,Home & Kitchen,Website,Debit Card,5,88.03,0.1,396.13,0,0,4
+C10573,2025-07-28 18:44:19.459459460,India,Clothing,Mobile App,Credit Card,4,47.95,0.15,163.04,0,0,5
+C10574,2025-07-29 03:29:00.540540540,Thailand,Sports,Website,PayPal,4,88.8,0.05,337.46,0,0,5
+C10575,2025-07-29 12:13:41.621621624,Thailand,Sports,Mobile App,Debit Card,5,65.8,0.0,329.0,0,0,4
+C10576,2025-07-29 20:58:22.702702704,Thailand,Electronics,Marketplace,Mobile Payment,5,140.05,0.15,595.2,0,0,5
+C10577,2025-07-30 05:43:03.783783784,Germany,Sports,Mobile App,PayPal,5,76.95,0.05,365.51,0,0,5
+C10578,2025-07-30 14:27:44.864864864,Germany,Clothing,Website,PayPal,3,60.89,0.0,182.67,0,0,4
+C10579,2025-07-30 23:12:25.945945948,UK,Home & Kitchen,Mobile App,Debit Card,4,108.03,0.0,432.1,0,0,2
+C10580,2025-07-31 07:57:07.027027028,Thailand,Home & Kitchen,Website,PayPal,4,78.13,0.0,312.54,0,0,1
+C10581,2025-07-31 16:41:48.108108108,USA,Sports,Marketplace,PayPal,3,70.74,0.05,201.62,0,0,4
+C10582,2025-08-01 01:26:29.189189188,Germany,Clothing,Mobile App,Debit Card,5,49.37,0.15,209.83,0,0,4
+C10583,2025-08-01 10:11:10.270270272,UK,Home & Kitchen,Website,Debit Card,2,68.1,0.15,115.77,0,0,5
+C10584,2025-08-01 18:55:51.351351352,Canada,Clothing,Mobile App,PayPal,5,72.25,0.15,307.06,0,0,5
+C10585,2025-08-02 03:40:32.432432432,Thailand,Electronics,Mobile App,Mobile Payment,5,217.84,0.0,1089.19,0,0,5
+C10586,2025-08-02 12:25:13.513513516,Australia,Electronics,Website,Credit Card,3,163.98,0.05,467.36,0,0,5
+C10587,2025-08-02 21:09:54.594594596,USA,Electronics,Mobile App,PayPal,4,201.52,0.0,806.08,0,0,5
+C10588,2025-08-03 05:54:35.675675676,USA,Electronics,Website,PayPal,5,151.36,0.15,643.28,0,0,4
+C10589,2025-08-03 14:39:16.756756756,Australia,Electronics,Mobile App,Mobile Payment,4,238.17,0.05,905.05,0,0,3
+C10590,2025-08-03 23:23:57.837837840,Australia,Electronics,Marketplace,PayPal,1,140.48,0.1,126.43,0,0,5
+C10591,2025-08-04 08:08:38.918918920,Canada,Clothing,Marketplace,PayPal,4,38.65,0.1,139.13,0,0,4
+C10592,2025-08-04 16:53:20.000000000,Thailand,Electronics,Mobile App,Credit Card,2,189.25,0.05,359.58,0,0,4
+C10593,2025-08-05 01:38:01.081081080,Thailand,Home & Kitchen,Mobile App,Credit Card,2,99.74,0.0,199.47,0,0,4
+C10594,2025-08-05 10:22:42.162162164,Australia,Sports,Website,Credit Card,5,77.37,0.2,309.48,0,0,5
+C10595,2025-08-05 19:07:23.243243244,Germany,Clothing,Mobile App,Debit Card,4,40.6,0.2,129.92,0,0,4
+C10596,2025-08-06 03:52:04.324324324,Thailand,Clothing,Website,Debit Card,5,50.59,0.0,252.95,0,0,5
+C10597,2025-08-06 12:36:45.405405404,Thailand,Electronics,Mobile App,Credit Card,3,188.9,0.05,538.36,0,0,3
+C10598,2025-08-06 21:21:26.486486488,Thailand,Electronics,Website,Credit Card,2,153.29,0.2,245.26,0,0,4
+C10599,2025-08-07 06:06:07.567567568,India,Electronics,Website,Debit Card,5,235.95,0.0,1179.75,0,0,1
+C10600,2025-08-07 14:50:48.648648648,Thailand,Electronics,Mobile App,Mobile Payment,3,136.98,0.05,390.38,0,0,5
+C10601,2025-08-07 23:35:29.729729732,USA,Home & Kitchen,Website,PayPal,5,93.71,0.0,468.53,0,0,1
+C10602,2025-08-08 08:20:10.810810812,Thailand,Electronics,Mobile App,PayPal,4,213.12,0.05,809.85,0,0,5
+C10603,2025-08-08 17:04:51.891891892,USA,Electronics,Website,Credit Card,4,158.98,0.0,635.92,0,0,2
+C10604,2025-08-09 01:49:32.972972972,Thailand,Electronics,Website,Mobile Payment,4,204.65,0.05,777.69,0,0,3
+C10605,2025-08-09 10:34:14.054054056,UK,Home & Kitchen,Mobile App,Debit Card,4,115.25,0.0,461.01,0,0,4
+C10606,2025-08-09 19:18:55.135135136,Thailand,Electronics,Website,Credit Card,1,149.98,0.05,142.48,0,0,4
+C10607,2025-08-10 04:03:36.216216216,India,Home & Kitchen,Website,Mobile Payment,3,120.78,0.2,289.88,0,0,3
+C10608,2025-08-10 12:48:17.297297296,Thailand,Clothing,Mobile App,Mobile Payment,3,59.81,0.15,152.52,0,0,4
+C10609,2025-08-10 21:32:58.378378380,UK,Clothing,Website,Mobile Payment,4,50.02,0.15,170.07,0,0,5
+C10610,2025-08-11 06:17:39.459459460,India,Electronics,Marketplace,Debit Card,1,180.29,0.1,162.26,0,0,4
+C10611,2025-08-11 15:02:20.540540540,Germany,Beauty,Website,Debit Card,4,36.74,0.0,146.97,0,0,2
+C10612,2025-08-11 23:47:01.621621624,UK,Clothing,Website,PayPal,1,66.42,0.0,66.42,10,0,5
+C10613,2025-08-12 08:31:42.702702704,USA,Electronics,Mobile App,PayPal,4,226.33,0.15,769.54,0,0,2
+C10614,2025-08-12 17:16:23.783783784,USA,Sports,Website,Mobile Payment,2,89.81,0.05,170.65,0,0,4
+C10615,2025-08-13 02:01:04.864864864,Germany,Sports,Website,Mobile Payment,2,97.3,0.0,194.61,0,1,3
+C10616,2025-08-13 10:45:45.945945948,Canada,Electronics,Website,Debit Card,5,225.7,0.1,1015.66,0,0,4
+C10617,2025-08-13 19:30:27.027027028,Germany,Home & Kitchen,Website,PayPal,4,100.89,0.0,403.55,0,0,3
+C10618,2025-08-14 04:15:08.108108108,UK,Beauty,Marketplace,Mobile Payment,3,37.5,0.0,112.49,0,0,5
+C10619,2025-08-14 12:59:49.189189188,Australia,Beauty,Website,PayPal,5,43.25,0.2,172.99,0,0,4
+C10620,2025-08-14 21:44:30.270270272,UK,Electronics,Mobile App,PayPal,2,131.17,0.15,223.0,0,0,3
+C10621,2025-08-15 06:29:11.351351352,Thailand,Electronics,Marketplace,Mobile Payment,4,219.85,0.05,835.42,0,0,3
+C10622,2025-08-15 15:13:52.432432432,UK,Home & Kitchen,Website,Debit Card,5,91.1,0.2,364.38,0,0,5
+C10623,2025-08-15 23:58:33.513513516,Canada,Clothing,Marketplace,Mobile Payment,4,39.27,0.1,141.38,0,0,4
+C10624,2025-08-16 08:43:14.594594596,Thailand,Clothing,Website,Mobile Payment,2,40.91,0.1,73.63,8,0,5
+C10625,2025-08-16 17:27:55.675675676,Australia,Home & Kitchen,Marketplace,PayPal,5,87.41,0.0,437.05,0,0,5
+C10626,2025-08-17 02:12:36.756756756,Thailand,Home & Kitchen,Website,Mobile Payment,2,99.76,0.0,199.51,0,0,5
+C10627,2025-08-17 10:57:17.837837840,UK,Beauty,Mobile App,Debit Card,1,41.0,0.1,36.9,8,0,5
+C10628,2025-08-17 19:41:58.918918920,Thailand,Electronics,Mobile App,Mobile Payment,2,204.02,0.15,346.83,0,1,3
+C10629,2025-08-18 04:26:40.000000000,UK,Home & Kitchen,Website,Debit Card,4,93.26,0.1,335.73,0,1,5
+C10630,2025-08-18 13:11:21.081081080,Australia,Beauty,Mobile App,Debit Card,3,46.53,0.0,139.58,0,0,3
+C10631,2025-08-18 21:56:02.162162164,USA,Sports,Mobile App,PayPal,2,59.74,0.0,119.47,0,1,5
+C10632,2025-08-19 06:40:43.243243244,Germany,Clothing,Website,Credit Card,3,42.84,0.15,109.25,0,0,4
+C10633,2025-08-19 15:25:24.324324324,India,Clothing,Website,Credit Card,1,61.46,0.0,61.46,8,0,5
+C10634,2025-08-20 00:10:05.405405408,Canada,Electronics,Mobile App,PayPal,5,187.07,0.05,888.59,0,0,4
+C10635,2025-08-20 08:54:46.486486488,Thailand,Home & Kitchen,Mobile App,Mobile Payment,5,64.69,0.0,323.46,0,0,4
+C10636,2025-08-20 17:39:27.567567568,USA,Clothing,Marketplace,PayPal,3,53.15,0.0,159.45,0,0,5
+C10637,2025-08-21 02:24:08.648648648,Thailand,Electronics,Mobile App,Debit Card,5,139.37,0.1,627.17,0,0,2
+C10638,2025-08-21 11:08:49.729729732,Canada,Home & Kitchen,Marketplace,Credit Card,2,96.48,0.1,173.66,0,0,4
+C10639,2025-08-21 19:53:30.810810812,Canada,Home & Kitchen,Mobile App,PayPal,3,87.93,0.0,263.8,0,0,4
+C10640,2025-08-22 04:38:11.891891892,UK,Electronics,Website,Mobile Payment,4,203.26,0.0,813.03,0,0,5
+C10641,2025-08-22 13:22:52.972972972,India,Home & Kitchen,Website,PayPal,2,113.75,0.15,193.38,0,0,2
+C10642,2025-08-22 22:07:34.054054056,UK,Electronics,Mobile App,Credit Card,2,163.76,0.0,327.52,0,0,1
+C10643,2025-08-23 06:52:15.135135136,Germany,Home & Kitchen,Mobile App,PayPal,2,123.61,0.05,234.86,0,0,2
+C10644,2025-08-23 15:36:56.216216216,Thailand,Electronics,Website,PayPal,4,193.49,0.2,619.17,0,0,2
+C10645,2025-08-24 00:21:37.297297296,Australia,Sports,Website,Credit Card,1,79.3,0.0,79.3,5,0,5
+C10646,2025-08-24 09:06:18.378378380,Thailand,Clothing,Marketplace,Debit Card,5,64.71,0.15,275.0,0,0,5
+C10647,2025-08-24 17:50:59.459459460,India,Clothing,Mobile App,Debit Card,3,64.17,0.0,192.51,0,0,4
+C10648,2025-08-25 02:35:40.540540540,India,Beauty,Website,Credit Card,1,42.31,0.1,38.08,3,0,4
+C10649,2025-08-25 11:20:21.621621624,Australia,Clothing,Mobile App,PayPal,3,55.01,0.05,156.77,0,0,5
+C10650,2025-08-25 20:05:02.702702704,Thailand,Electronics,Website,Credit Card,5,132.78,0.2,531.11,0,0,3
+C10651,2025-08-26 04:49:43.783783784,USA,Clothing,Website,Debit Card,4,39.35,0.0,157.4,0,0,4
+C10652,2025-08-26 13:34:24.864864864,Thailand,Clothing,Website,Mobile Payment,2,52.28,0.05,99.33,10,0,4
+C10653,2025-08-26 22:19:05.945945948,USA,Beauty,Website,PayPal,2,37.34,0.2,59.75,5,0,2
+C10654,2025-08-27 07:03:47.027027028,Thailand,Home & Kitchen,Mobile App,Debit Card,4,87.42,0.05,332.21,0,0,4
+C10655,2025-08-27 15:48:28.108108108,Canada,Electronics,Website,PayPal,1,143.43,0.05,136.26,0,0,4
+C10656,2025-08-28 00:33:09.189189188,UK,Home & Kitchen,Marketplace,Credit Card,1,109.5,0.0,109.5,0,0,1
+C10657,2025-08-28 09:17:50.270270272,USA,Home & Kitchen,Marketplace,Mobile Payment,3,116.99,0.1,315.87,0,0,3
+C10658,2025-08-28 18:02:31.351351352,USA,Clothing,Website,Credit Card,4,74.64,0.0,298.56,0,0,5
+C10659,2025-08-29 02:47:12.432432432,USA,Clothing,Mobile App,Mobile Payment,1,57.46,0.0,57.46,5,1,1
+C10660,2025-08-29 11:31:53.513513516,Germany,Home & Kitchen,Mobile App,PayPal,4,107.15,0.1,385.76,0,0,5
+C10661,2025-08-29 20:16:34.594594596,UK,Sports,Marketplace,PayPal,5,90.92,0.0,454.61,0,1,2
+C10662,2025-08-30 05:01:15.675675676,Canada,Clothing,Website,Credit Card,2,54.6,0.2,87.37,3,0,5
+C10663,2025-08-30 13:45:56.756756756,UK,Electronics,Mobile App,Mobile Payment,2,164.99,0.15,280.48,0,0,5
+C10664,2025-08-30 22:30:37.837837840,Canada,Electronics,Mobile App,Mobile Payment,2,244.03,0.1,439.25,0,0,5
+C10665,2025-08-31 07:15:18.918918920,India,Electronics,Website,PayPal,4,190.98,0.15,649.32,0,0,5
+C10666,2025-08-31 16:00:00.000000000,Thailand,Electronics,Website,Credit Card,4,188.65,0.1,679.15,0,0,3
+C10667,2025-09-01 00:44:41.081081080,Canada,Electronics,Mobile App,Mobile Payment,3,148.48,0.0,445.44,0,0,4
+C10668,2025-09-01 09:29:22.162162164,Thailand,Electronics,Mobile App,PayPal,2,139.63,0.1,251.33,0,0,4
+C10669,2025-09-01 18:14:03.243243244,India,Home & Kitchen,Website,Debit Card,3,116.05,0.0,348.16,0,0,3
+C10670,2025-09-02 02:58:44.324324324,USA,Electronics,Mobile App,Credit Card,2,203.38,0.0,406.76,0,1,1
+C10671,2025-09-02 11:43:25.405405408,India,Sports,Website,Debit Card,3,64.97,0.15,165.66,0,0,5
+C10672,2025-09-02 20:28:06.486486488,India,Electronics,Mobile App,Credit Card,3,150.16,0.05,427.95,0,0,4
+C10673,2025-09-03 05:12:47.567567568,India,Clothing,Website,PayPal,5,59.89,0.15,254.52,0,1,4
+C10674,2025-09-03 13:57:28.648648648,India,Home & Kitchen,Marketplace,Mobile Payment,3,99.79,0.0,299.36,0,0,5
+C10675,2025-09-03 22:42:09.729729732,USA,Sports,Website,Mobile Payment,4,59.14,0.1,212.91,0,0,4
+C10676,2025-09-04 07:26:50.810810812,Thailand,Electronics,Website,Mobile Payment,3,233.28,0.0,699.83,0,0,4
+C10677,2025-09-04 16:11:31.891891892,USA,Home & Kitchen,Website,Credit Card,2,68.31,0.1,122.96,0,0,5
+C10678,2025-09-05 00:56:12.972972972,Thailand,Sports,Website,PayPal,3,66.45,0.1,179.41,0,0,2
+C10679,2025-09-05 09:40:54.054054056,Australia,Sports,Mobile App,Debit Card,1,82.34,0.1,74.1,5,0,4
+C10680,2025-09-05 18:25:35.135135136,USA,Beauty,Website,PayPal,2,35.68,0.0,71.35,3,0,5
+C10681,2025-09-06 03:10:16.216216216,Canada,Home & Kitchen,Marketplace,Debit Card,1,115.14,0.0,115.14,0,0,5
+C10682,2025-09-06 11:54:57.297297296,Germany,Electronics,Website,Credit Card,2,219.22,0.0,438.45,0,0,5
+C10683,2025-09-06 20:39:38.378378380,India,Clothing,Website,Credit Card,4,68.88,0.1,247.96,0,0,4
+C10684,2025-09-07 05:24:19.459459460,Thailand,Sports,Website,Debit Card,4,54.84,0.15,186.44,0,1,5
+C10685,2025-09-07 14:09:00.540540540,India,Clothing,Website,Debit Card,4,43.91,0.0,175.64,0,0,2
+C10686,2025-09-07 22:53:41.621621624,Canada,Clothing,Website,Debit Card,1,49.53,0.1,44.58,10,0,3
+C10687,2025-09-08 07:38:22.702702704,UK,Home & Kitchen,Website,PayPal,5,95.64,0.15,406.47,0,0,4
+C10688,2025-09-08 16:23:03.783783784,Germany,Beauty,Mobile App,Debit Card,2,48.94,0.05,92.99,8,0,4
+C10689,2025-09-09 01:07:44.864864864,Australia,Electronics,Website,Credit Card,4,231.4,0.1,833.05,0,0,3
+C10690,2025-09-09 09:52:25.945945948,Thailand,Home & Kitchen,Mobile App,Credit Card,2,107.37,0.0,182.53,0,0,4
+C10691,2025-09-09 18:37:07.027027028,UK,Home & Kitchen,Mobile App,Mobile Payment,1,121.5,0.0,121.5,0,0,3
+C10692,2025-09-10 03:21:48.108108108,USA,Clothing,Website,Debit Card,5,66.94,0.0,334.71,0,0,4
+C10693,2025-09-10 12:06:29.189189188,Thailand,Electronics,Mobile App,PayPal,1,164.59,0.0,164.59,0,0,5
+C10694,2025-09-10 20:51:10.270270272,USA,Electronics,Marketplace,PayPal,2,159.4,0.2,255.04,0,1,4
+C10695,2025-09-11 05:35:51.351351352,Thailand,Clothing,Mobile App,PayPal,5,65.3,0.15,277.54,0,1,2
+C10696,2025-09-11 14:20:32.432432432,Thailand,Home & Kitchen,Mobile App,Mobile Payment,5,75.15,0.1,338.18,0,0,4
+C10697,2025-09-11 23:05:13.513513516,Thailand,Clothing,Website,Credit Card,1,42.07,0.0,42.07,10,0,4
+C10698,2025-09-12 07:49:54.594594596,Canada,Electronics,Mobile App,PayPal,4,193.06,0.05,733.63,0,0,4
+C10699,2025-09-12 16:34:35.675675676,UK,Clothing,Mobile App,Credit Card,2,70.13,0.0,140.27,0,0,4
+C10700,2025-09-13 01:19:16.756756756,Canada,Clothing,Mobile App,Mobile Payment,3,42.4,0.0,127.21,0,0,4
+C10701,2025-09-13 10:03:57.837837840,USA,Electronics,Marketplace,Debit Card,3,225.78,0.1,609.6,0,0,5
+C10702,2025-09-13 18:48:38.918918920,USA,Home & Kitchen,Website,Debit Card,1,114.13,0.2,91.3,5,0,2
+C10703,2025-09-14 03:33:20.000000000,UK,Electronics,Website,Debit Card,2,186.77,0.15,317.5,0,0,4
+C10704,2025-09-14 12:18:01.081081080,USA,Electronics,Mobile App,PayPal,2,133.22,0.1,239.8,0,0,4
+C10705,2025-09-14 21:02:42.162162164,Thailand,Sports,Marketplace,Debit Card,1,57.55,0.0,57.55,3,0,4
+C10706,2025-09-15 05:47:23.243243244,Germany,Home & Kitchen,Website,PayPal,2,107.57,0.0,215.14,0,0,3
+C10707,2025-09-15 14:32:04.324324324,Thailand,Beauty,Website,Mobile Payment,4,47.93,0.0,191.72,0,0,3
+C10708,2025-09-15 23:16:45.405405408,Germany,Home & Kitchen,Website,Mobile Payment,1,119.6,0.1,107.64,0,0,3
+C10709,2025-09-16 08:01:26.486486488,Germany,Clothing,Website,PayPal,4,60.93,0.15,207.17,0,0,5
+C10710,2025-09-16 16:46:07.567567568,Thailand,Beauty,Mobile App,Credit Card,2,31.48,0.05,59.8,3,0,5
+C10711,2025-09-17 01:30:48.648648648,Thailand,Clothing,Mobile App,Debit Card,1,43.17,0.05,41.02,3,0,4
+C10712,2025-09-17 10:15:29.729729732,India,Clothing,Website,Debit Card,2,66.26,0.0,132.53,0,0,5
+C10713,2025-09-17 19:00:10.810810812,UK,Home & Kitchen,Website,Debit Card,1,74.58,0.0,74.58,5,0,3
+C10714,2025-09-18 03:44:51.891891892,Thailand,Home & Kitchen,Website,PayPal,2,83.69,0.05,159.01,0,0,5
+C10715,2025-09-18 12:29:32.972972972,Canada,Sports,Website,Mobile Payment,4,72.87,0.0,291.49,0,0,4
+C10716,2025-09-18 21:14:14.054054056,Thailand,Beauty,Mobile App,Debit Card,4,28.69,0.05,109.03,0,1,4
+C10717,2025-09-19 05:58:55.135135136,Australia,Sports,Marketplace,Mobile Payment,2,61.19,0.15,104.03,0,0,5
+C10718,2025-09-19 14:43:36.216216216,Canada,Electronics,Marketplace,Debit Card,1,177.39,0.1,159.65,0,0,5
+C10719,2025-09-19 23:28:17.297297296,Thailand,Beauty,Website,Debit Card,3,35.83,0.0,107.49,0,1,5
+C10720,2025-09-20 08:12:58.378378380,Thailand,Sports,Marketplace,PayPal,4,55.68,0.0,222.73,0,0,2
+C10721,2025-09-20 16:57:39.459459460,Thailand,Electronics,Mobile App,Credit Card,4,217.73,0.05,827.37,0,0,5
+C10722,2025-09-21 01:42:20.540540540,USA,Electronics,Mobile App,PayPal,3,228.46,0.05,651.1,0,0,5
+C10723,2025-09-21 10:27:01.621621624,Thailand,Beauty,Mobile App,Debit Card,2,35.21,0.05,66.9,8,0,4
+C10724,2025-09-21 19:11:42.702702704,Australia,Clothing,Website,Debit Card,1,68.32,0.05,64.9,5,0,2
+C10725,2025-09-22 03:56:23.783783784,Thailand,Beauty,Website,Credit Card,2,38.8,0.1,69.83,5,0,3
+C10726,2025-09-22 12:41:04.864864864,UK,Electronics,Website,Mobile Payment,5,189.84,0.1,854.29,0,0,5
+C10727,2025-09-22 21:25:45.945945948,Canada,Beauty,Website,Mobile Payment,4,51.97,0.0,207.87,0,0,4
+C10728,2025-09-23 06:10:27.027027028,India,Electronics,Website,Debit Card,5,220.49,0.15,937.1,0,0,4
+C10729,2025-09-23 14:55:08.108108108,Germany,Electronics,Mobile App,Mobile Payment,4,227.44,0.0,909.78,0,0,3
+C10730,2025-09-23 23:39:49.189189188,USA,Electronics,Mobile App,Debit Card,4,143.24,0.0,572.97,0,0,3
+C10731,2025-09-24 08:24:30.270270272,Germany,Beauty,Mobile App,Credit Card,5,29.95,0.1,134.78,0,0,4
+C10732,2025-09-24 17:09:11.351351352,UK,Clothing,Website,Credit Card,5,72.9,0.1,328.03,0,0,4
+C10733,2025-09-25 01:53:52.432432432,USA,Clothing,Marketplace,Debit Card,2,53.43,0.15,90.83,10,0,5
+C10734,2025-09-25 10:38:33.513513516,Thailand,Home & Kitchen,Marketplace,Credit Card,5,81.14,0.1,365.11,0,0,4
+C10735,2025-09-25 19:23:14.594594596,India,Sports,Mobile App,PayPal,2,84.51,0.15,143.67,0,0,5
+C10736,2025-09-26 04:07:55.675675676,USA,Home & Kitchen,Marketplace,PayPal,2,115.69,0.15,196.68,0,0,3
+C10737,2025-09-26 12:52:36.756756756,Thailand,Beauty,Mobile App,Credit Card,2,52.15,0.1,93.87,10,0,2
+C10738,2025-09-26 21:37:17.837837840,USA,Home & Kitchen,Marketplace,Debit Card,4,82.91,0.05,315.05,0,0,4
+C10739,2025-09-27 06:21:58.918918920,USA,Home & Kitchen,Website,Debit Card,4,116.69,0.1,420.08,0,0,4
+C10740,2025-09-27 15:06:40.000000000,India,Home & Kitchen,Website,Credit Card,5,65.58,0.2,262.32,0,0,3
+C10741,2025-09-27 23:51:21.081081080,Australia,Home & Kitchen,Website,Mobile Payment,4,66.13,0.1,238.06,0,0,5
+C10742,2025-09-28 08:36:02.162162164,Australia,Beauty,Website,PayPal,5,45.46,0.0,227.29,0,1,4
+C10743,2025-09-28 17:20:43.243243244,Thailand,Clothing,Website,Mobile Payment,4,40.93,0.1,147.35,0,0,3
+C10744,2025-09-29 02:05:24.324324324,USA,Electronics,Mobile App,Debit Card,1,166.9,0.0,166.9,0,0,3
+C10745,2025-09-29 10:50:05.405405408,UK,Sports,Mobile App,Debit Card,1,81.97,0.05,77.87,8,0,3
+C10746,2025-09-29 19:34:46.486486488,Thailand,Home & Kitchen,Mobile App,Mobile Payment,5,84.25,0.0,421.24,0,0,5
+C10747,2025-09-30 04:19:27.567567568,Thailand,Clothing,Website,Credit Card,4,45.41,0.1,163.49,0,0,3
+C10748,2025-09-30 13:04:08.648648648,Australia,Sports,Marketplace,Mobile Payment,4,62.79,0.15,213.47,0,1,4
+C10749,2025-09-30 21:48:49.729729732,Thailand,Clothing,Mobile App,Mobile Payment,2,56.12,0.0,112.23,0,0,4
+C10750,2025-10-01 06:33:30.810810812,UK,Electronics,Website,PayPal,3,185.9,0.0,557.7,0,0,3
+C10751,2025-10-01 15:18:11.891891892,Thailand,Sports,Mobile App,PayPal,5,87.37,0.0,436.84,0,0,3
+C10752,2025-10-02 00:02:52.972972972,Thailand,Clothing,Website,Mobile Payment,3,67.38,0.1,181.93,0,0,3
+C10753,2025-10-02 08:47:34.054054056,Thailand,Home & Kitchen,Website,Mobile Payment,3,91.78,0.0,275.34,0,0,4
+C10754,2025-10-02 17:32:15.135135136,Canada,Electronics,Marketplace,Debit Card,5,232.55,0.0,1162.77,0,0,2
+C10755,2025-10-03 02:16:56.216216216,India,Beauty,Website,PayPal,4,31.2,0.0,124.79,0,0,1
+C10756,2025-10-03 11:01:37.297297300,Canada,Clothing,Mobile App,PayPal,5,48.33,0.05,229.57,0,0,5
+C10757,2025-10-03 19:46:18.378378380,UK,Clothing,Marketplace,Debit Card,3,70.38,0.0,211.13,0,0,3
+C10758,2025-10-04 04:30:59.459459460,Thailand,Sports,Mobile App,Credit Card,4,67.52,0.1,243.08,0,0,5
+C10759,2025-10-04 13:15:40.540540540,UK,Beauty,Website,PayPal,1,55.47,0.0,55.47,10,0,5
+C10760,2025-10-04 22:00:21.621621624,UK,Electronics,Website,PayPal,5,184.75,0.1,831.37,0,0,4
+C10761,2025-10-05 06:45:02.702702704,India,Home & Kitchen,Website,Credit Card,5,112.89,0.0,564.46,0,0,4
+C10762,2025-10-05 15:29:43.783783784,Thailand,Electronics,Mobile App,PayPal,4,176.69,0.05,671.42,0,1,3
+C10763,2025-10-06 00:14:24.864864864,UK,Beauty,Website,PayPal,1,39.9,0.0,39.9,10,0,5
+C10764,2025-10-06 08:59:05.945945948,Thailand,Electronics,Website,Credit Card,1,174.24,0.1,156.82,0,0,4
+C10765,2025-10-06 17:43:47.027027028,USA,Clothing,Marketplace,Credit Card,4,66.18,0.15,225.03,0,1,4
+C10766,2025-10-07 02:28:28.108108108,Australia,Beauty,Mobile App,Mobile Payment,2,43.33,0.15,73.66,10,0,1
+C10767,2025-10-07 11:13:09.189189188,UK,Sports,Website,Debit Card,5,95.25,0.1,428.6,0,0,5
+C10768,2025-10-07 19:57:50.270270272,USA,Home & Kitchen,Mobile App,Debit Card,5,78.81,0.05,374.33,0,0,2
+C10769,2025-10-08 04:42:31.351351352,USA,Beauty,Mobile App,Credit Card,3,30.82,0.15,78.58,10,0,4
+C10770,2025-10-08 13:27:12.432432432,UK,Electronics,Website,Credit Card,4,175.55,0.1,631.98,0,0,4
+C10771,2025-10-08 22:11:53.513513516,India,Beauty,Website,PayPal,3,45.27,0.0,135.8,0,0,1
+C10772,2025-10-09 06:56:34.594594596,India,Electronics,Marketplace,Mobile Payment,3,234.46,0.15,597.87,0,0,4
+C10773,2025-10-09 15:41:15.675675676,Canada,Home & Kitchen,Mobile App,Mobile Payment,1,84.81,0.05,80.57,3,0,5
+C10774,2025-10-10 00:25:56.756756756,India,Beauty,Mobile App,Credit Card,5,46.31,0.0,231.53,0,0,5
+C10775,2025-10-10 09:10:37.837837840,USA,Electronics,Website,PayPal,3,170.13,0.0,510.38,0,0,5
+C10776,2025-10-10 17:55:18.918918920,Australia,Electronics,Website,PayPal,1,203.77,0.0,203.77,0,0,4
+C10777,2025-10-11 02:40:00.000000000,unknown,Beauty,Website,Debit Card,4,52.77,0.05,200.54,0,0,4
+C10778,2025-10-11 11:24:41.081081080,Thailand,Beauty,Website,Debit Card,3,34.48,0.0,103.43,0,0,2
+C10779,2025-10-11 20:09:22.162162164,India,Clothing,Website,PayPal,5,54.06,0.0,270.32,0,0,4
+C10780,2025-10-12 04:54:03.243243244,Thailand,Clothing,Website,Debit Card,3,76.74,0.0,230.22,0,0,3
+C10781,2025-10-12 13:38:44.324324324,Canada,Clothing,Marketplace,Credit Card,4,71.94,0.1,258.98,0,0,4
+C10782,2025-10-12 22:23:25.405405408,UK,Home & Kitchen,Marketplace,PayPal,3,98.57,0.1,266.15,0,0,4
+C10783,2025-10-13 07:08:06.486486488,Germany,Home & Kitchen,Mobile App,Debit Card,5,95.55,0.0,477.74,0,0,4
+C10784,2025-10-13 15:52:47.567567568,Germany,Electronics,Marketplace,Mobile Payment,1,161.86,0.0,161.86,0,0,4
+C10785,2025-10-14 00:37:28.648648648,India,Sports,Website,PayPal,5,74.34,0.0,371.72,0,0,5
+C10786,2025-10-14 09:22:09.729729732,Germany,Clothing,Marketplace,PayPal,1,71.15,0.15,60.48,8,0,4
+C10787,2025-10-14 18:06:50.810810812,Germany,Home & Kitchen,Website,Mobile Payment,2,106.17,0.05,201.72,0,0,5
+C10788,2025-10-15 02:51:31.891891892,Thailand,Home & Kitchen,Marketplace,Credit Card,5,81.27,0.05,386.05,0,0,5
+C10789,2025-10-15 11:36:12.972972972,UK,Sports,Marketplace,Mobile Payment,5,58.87,0.0,294.36,0,0,4
+C10790,2025-10-15 20:20:54.054054056,Thailand,Electronics,Mobile App,PayPal,4,159.42,0.1,573.9,0,1,4
+C10791,2025-10-16 05:05:35.135135136,Australia,Clothing,Marketplace,Credit Card,3,45.04,0.05,128.35,0,0,2
+C10792,2025-10-16 13:50:16.216216216,UK,Clothing,Mobile App,Debit Card,1,42.18,0.0,42.18,10,0,5
+C10793,2025-10-16 22:34:57.297297300,Australia,Clothing,Website,Debit Card,1,54.64,0.0,54.64,5,0,4
+C10794,2025-10-17 07:19:38.378378380,Thailand,Electronics,Website,Debit Card,4,140.28,0.05,533.05,0,0,5
+C10795,2025-10-17 16:04:19.459459460,Thailand,Sports,Mobile App,PayPal,4,57.42,0.15,195.24,0,0,4
+C10796,2025-10-18 00:49:00.540540540,Australia,Sports,Website,Mobile Payment,3,75.82,0.15,193.34,0,0,5
+C10797,2025-10-18 09:33:41.621621624,Thailand,Clothing,Mobile App,Credit Card,3,44.84,0.1,121.06,0,0,5
+C10798,2025-10-18 18:18:22.702702704,Thailand,Clothing,Marketplace,Debit Card,5,40.96,0.1,184.32,0,0,4
+C10799,2025-10-19 03:03:03.783783784,Thailand,Sports,Website,Credit Card,2,64.55,0.0,129.1,0,0,3
+C10800,2025-10-19 11:47:44.864864864,Canada,Beauty,Mobile App,PayPal,3,34.17,0.1,92.26,5,0,4
+C10801,2025-10-19 20:32:25.945945948,Australia,Electronics,Marketplace,Debit Card,4,190.93,0.1,687.34,0,0,4
+C10802,2025-10-20 05:17:07.027027028,USA,Clothing,Marketplace,PayPal,3,42.44,0.0,127.32,0,0,3
+C10803,2025-10-20 14:01:48.108108108,Thailand,Clothing,Marketplace,Mobile Payment,1,67.44,0.15,57.33,10,0,5
+C10804,2025-10-20 22:46:29.189189188,USA,Home & Kitchen,Mobile App,PayPal,2,120.09,0.0,240.19,0,0,4
+C10805,2025-10-21 07:31:10.270270272,India,Beauty,Marketplace,PayPal,5,48.82,0.0,244.08,0,0,5
+C10806,2025-10-21 16:15:51.351351352,Germany,Sports,Mobile App,Mobile Payment,1,75.11,0.1,67.6,8,0,5
+C10807,2025-10-22 01:00:32.432432432,Thailand,Sports,Website,Credit Card,1,91.17,0.1,82.06,3,0,4
+C10808,2025-10-22 09:45:13.513513516,Thailand,Home & Kitchen,Mobile App,Mobile Payment,2,106.78,0.1,192.2,0,0,5
+C10809,2025-10-22 18:29:54.594594596,Thailand,Electronics,Mobile App,Mobile Payment,5,127.33,0.0,636.65,0,0,4
+C10810,2025-10-23 03:14:35.675675676,Germany,Sports,Website,PayPal,4,68.31,0.15,232.26,0,0,5
+C10811,2025-10-23 11:59:16.756756756,Australia,Beauty,Mobile App,Credit Card,5,51.83,0.05,246.18,0,0,4
+C10812,2025-10-23 20:43:57.837837840,Thailand,Electronics,Mobile App,Debit Card,3,169.58,0.05,483.3,0,1,4
+C10813,2025-10-24 05:28:38.918918920,Thailand,Sports,Website,Mobile Payment,1,50.73,0.2,40.58,10,0,4
+C10814,2025-10-24 14:13:20.000000000,Thailand,Sports,Mobile App,Credit Card,3,85.56,0.1,231.02,0,0,4
+C10815,2025-10-24 22:58:01.081081080,Canada,Clothing,Mobile App,Mobile Payment,4,69.38,0.0,277.51,0,0,4
+C10816,2025-10-25 07:42:42.162162164,Thailand,Clothing,Mobile App,Mobile Payment,3,44.68,0.1,120.64,0,0,4
+C10817,2025-10-25 16:27:23.243243244,Australia,Home & Kitchen,Website,Mobile Payment,5,96.85,0.0,484.26,0,0,4
+C10818,2025-10-26 01:12:04.324324324,Germany,Electronics,Website,Mobile Payment,3,150.19,0.0,450.56,0,0,5
+C10819,2025-10-26 09:56:45.405405408,USA,Home & Kitchen,Website,PayPal,4,108.31,0.05,411.58,0,0,4
+C10820,2025-10-26 18:41:26.486486488,Thailand,Beauty,Marketplace,Credit Card,4,35.6,0.2,113.93,0,0,4
+C10821,2025-10-27 03:26:07.567567568,Thailand,Electronics,Website,Credit Card,4,165.84,0.0,663.37,0,0,4
+C10822,2025-10-27 12:10:48.648648648,Germany,Home & Kitchen,Mobile App,Credit Card,5,116.23,0.1,523.05,0,0,5
+C10823,2025-10-27 20:55:29.729729732,India,Home & Kitchen,Website,Mobile Payment,4,93.01,0.0,372.03,0,0,5
+C10824,2025-10-28 05:40:10.810810812,Germany,Clothing,Website,PayPal,1,64.29,0.1,57.86,5,0,4
+C10825,2025-10-28 14:24:51.891891892,UK,Sports,Marketplace,Mobile Payment,4,68.72,0.05,261.12,0,0,2
+C10826,2025-10-28 23:09:32.972972972,Thailand,Home & Kitchen,Mobile App,Mobile Payment,3,81.77,0.1,220.79,0,0,4
+C10827,2025-10-29 07:54:14.054054056,Canada,Home & Kitchen,Website,Credit Card,3,102.41,0.0,307.22,0,0,4
+C10828,2025-10-29 16:38:55.135135136,India,Beauty,Website,Mobile Payment,3,32.34,0.1,87.31,8,0,5
+C10829,2025-10-30 01:23:36.216216216,Thailand,Home & Kitchen,Website,Debit Card,5,86.5,0.2,346.0,0,0,4
+C10830,2025-10-30 10:08:17.297297300,Canada,Electronics,Mobile App,Mobile Payment,3,152.34,0.1,411.31,0,0,5
+C10831,2025-10-30 18:52:58.378378380,Germany,Home & Kitchen,Mobile App,Debit Card,5,106.84,0.05,507.47,0,0,4
+C10832,2025-10-31 03:37:39.459459460,Germany,Electronics,Website,Mobile Payment,5,244.97,0.15,1041.12,0,0,5
+C10833,2025-10-31 12:22:20.540540540,Australia,Electronics,Website,PayPal,4,251.43,0.0,1005.74,0,0,1
+C10834,2025-10-31 21:07:01.621621624,India,Clothing,Website,PayPal,1,55.84,0.1,50.25,5,0,5
+C10835,2025-11-01 05:51:42.702702704,Germany,Home & Kitchen,Marketplace,Credit Card,4,78.91,0.15,268.29,0,0,5
+C10836,2025-11-01 14:36:23.783783784,Thailand,Sports,Marketplace,Mobile Payment,4,70.7,0.0,282.79,0,0,5
+C10837,2025-11-01 23:21:04.864864864,USA,Home & Kitchen,Website,Debit Card,5,116.38,0.05,552.8,0,0,1
+C10838,2025-11-02 08:05:45.945945948,Canada,Clothing,Mobile App,Debit Card,5,46.43,0.0,232.16,0,0,3
+C10839,2025-11-02 16:50:27.027027028,Thailand,Clothing,Website,Mobile Payment,3,75.16,0.1,202.92,0,0,4
+C10840,2025-11-03 01:35:08.108108108,USA,Electronics,Website,Debit Card,3,169.08,0.1,456.5,0,0,1
+C10841,2025-11-03 10:19:49.189189188,USA,Clothing,Mobile App,PayPal,4,76.45,0.0,305.81,0,0,2
+C10842,2025-11-03 19:04:30.270270272,USA,Electronics,Marketplace,Debit Card,2,231.66,0.05,440.16,0,0,3
+C10843,2025-11-04 03:49:11.351351352,Germany,Sports,Marketplace,Credit Card,2,88.62,0.0,177.24,0,0,4
+C10844,2025-11-04 12:33:52.432432432,Canada,Electronics,Mobile App,PayPal,3,166.06,0.05,473.26,0,1,4
+C10845,2025-11-04 21:18:33.513513516,Thailand,Home & Kitchen,Website,PayPal,2,63.55,0.0,127.11,0,1,1
+C10846,2025-11-05 06:03:14.594594596,Thailand,Electronics,Mobile App,PayPal,3,174.15,0.15,444.08,0,0,3
+C10847,2025-11-05 14:47:55.675675676,Thailand,Sports,Website,Mobile Payment,5,63.79,0.0,318.94,0,1,4
+C10848,2025-11-05 23:32:36.756756756,India,Clothing,Mobile App,Mobile Payment,4,39.94,0.15,135.8,0,0,4
+C10849,2025-11-06 08:17:17.837837840,Germany,Clothing,Website,PayPal,1,57.96,0.1,52.16,8,0,3
+C10850,2025-11-06 17:01:58.918918920,Thailand,Electronics,Mobile App,Mobile Payment,4,176.78,0.0,707.13,0,0,4
+C10851,2025-11-07 01:46:40.000000000,India,Beauty,Website,Debit Card,3,45.77,0.1,123.57,0,0,5
+C10852,2025-11-07 10:31:21.081081080,India,Electronics,Website,Mobile Payment,3,204.27,0.05,582.17,0,0,5
+C10853,2025-11-07 19:16:02.162162164,India,Sports,Marketplace,Mobile Payment,4,54.92,0.05,208.68,0,0,5
+C10854,2025-11-08 04:00:43.243243244,Canada,Electronics,Website,PayPal,3,249.1,0.0,747.29,0,0,5
+C10855,2025-11-08 12:45:24.324324324,Thailand,Electronics,Mobile App,Credit Card,2,149.55,0.05,284.15,0,0,4
+C10856,2025-11-08 21:30:05.405405408,Australia,Electronics,Website,Credit Card,2,182.1,0.0,364.21,0,0,4
+C10857,2025-11-09 06:14:46.486486488,UK,Clothing,Website,Credit Card,3,57.29,0.0,171.88,0,0,4
+C10858,2025-11-09 14:59:27.567567568,India,Clothing,Website,Debit Card,3,69.8,0.05,198.94,0,0,4
+C10859,2025-11-09 23:44:08.648648648,Australia,Electronics,Website,Mobile Payment,2,138.5,0.0,277.01,0,0,4
+C10860,2025-11-10 08:28:49.729729732,India,Beauty,Marketplace,Credit Card,3,40.0,0.0,120.01,0,0,4
+C10861,2025-11-10 17:13:30.810810812,Germany,Home & Kitchen,Website,PayPal,3,102.6,0.0,307.79,0,0,4
+C10862,2025-11-11 01:58:11.891891892,Thailand,Clothing,Marketplace,Credit Card,4,46.78,0.0,187.13,0,0,1
+C10863,2025-11-11 10:42:52.972972972,UK,Home & Kitchen,Mobile App,Credit Card,1,102.53,0.0,102.53,0,0,5
+C10864,2025-11-11 19:27:34.054054056,Canada,Home & Kitchen,Website,Mobile Payment,2,121.19,0.2,193.91,0,0,1
+C10865,2025-11-12 04:12:15.135135136,Canada,Clothing,Mobile App,Mobile Payment,4,76.9,0.0,307.62,0,0,3
+C10866,2025-11-12 12:56:56.216216216,Thailand,Electronics,Mobile App,Mobile Payment,1,130.09,0.1,117.08,0,0,1
+C10867,2025-11-12 21:41:37.297297300,Thailand,Electronics,Mobile App,Debit Card,3,155.68,0.0,467.05,0,0,4
+C10868,2025-11-13 06:26:18.378378380,Thailand,Sports,Website,Debit Card,3,64.21,0.15,163.72,0,0,2
+C10869,2025-11-13 15:10:59.459459460,Australia,Sports,Website,Credit Card,4,68.56,0.0,274.23,0,0,5
+C10870,2025-11-13 23:55:40.540540540,India,Home & Kitchen,Marketplace,Mobile Payment,3,78.26,0.2,187.83,0,0,4
+C10871,2025-11-14 08:40:21.621621624,Thailand,Home & Kitchen,Marketplace,Credit Card,5,75.82,0.1,341.19,0,0,4
+C10872,2025-11-14 17:25:02.702702704,UK,Clothing,Marketplace,PayPal,4,75.25,0.0,301.0,0,0,4
+C10873,2025-11-15 02:09:43.783783784,India,Home & Kitchen,Website,PayPal,1,120.87,0.15,102.74,0,0,4
+C10874,2025-11-15 10:54:24.864864864,Australia,Electronics,Mobile App,Mobile Payment,4,131.92,0.05,501.3,0,0,5
+C10875,2025-11-15 19:39:05.945945948,UK,Electronics,Mobile App,Mobile Payment,2,168.69,0.0,337.38,0,0,4
+C10876,2025-11-16 04:23:47.027027028,Germany,Beauty,Mobile App,PayPal,4,39.34,0.1,141.64,0,0,5
+C10877,2025-11-16 13:08:28.108108108,UK,Clothing,Website,Mobile Payment,3,47.7,0.15,121.64,0,0,5
+C10878,2025-11-16 21:53:09.189189192,Thailand,Electronics,Mobile App,Debit Card,3,205.24,0.05,584.93,0,0,5
+C10879,2025-11-17 06:37:50.270270272,UK,Electronics,Website,Debit Card,5,206.69,0.0,1033.44,0,0,4
+C10880,2025-11-17 15:22:31.351351352,Australia,Electronics,Website,Mobile Payment,5,233.16,0.1,1049.24,0,0,3
+C10881,2025-11-18 00:07:12.432432432,India,Clothing,Marketplace,PayPal,5,67.02,0.1,301.61,0,0,4
+C10882,2025-11-18 08:51:53.513513516,Germany,Electronics,Website,Credit Card,1,194.36,0.15,165.21,0,0,4
+C10883,2025-11-18 17:36:34.594594596,Australia,Electronics,Website,Mobile Payment,5,208.35,0.1,937.58,0,0,5
+C10884,2025-11-19 02:21:15.675675676,Thailand,Beauty,Website,Mobile Payment,1,35.67,0.0,35.67,3,0,5
+C10885,2025-11-19 11:05:56.756756756,UK,Electronics,Marketplace,Credit Card,5,200.73,0.15,853.08,0,0,5
+C10886,2025-11-19 19:50:37.837837840,Thailand,Clothing,Mobile App,Mobile Payment,1,57.34,0.0,57.34,10,0,5
+C10887,2025-11-20 04:35:18.918918920,Thailand,Electronics,Website,Credit Card,4,142.8,0.0,571.21,0,0,2
+C10888,2025-11-20 13:20:00.000000000,Australia,Electronics,Marketplace,PayPal,4,156.56,0.05,594.93,0,0,1
+C10889,2025-11-20 22:04:41.081081080,Canada,Electronics,Marketplace,Debit Card,3,162.75,0.1,439.43,0,0,3
+C10890,2025-11-21 06:49:22.162162164,Thailand,Beauty,Website,PayPal,1,53.88,0.0,53.88,10,0,5
+C10891,2025-11-21 15:34:03.243243244,USA,Sports,Mobile App,Debit Card,2,60.29,0.1,108.52,0,0,5
+C10892,2025-11-22 00:18:44.324324324,India,Beauty,Mobile App,Credit Card,3,36.1,0.05,102.88,0,0,4
+C10893,2025-11-22 09:03:25.405405408,Thailand,Home & Kitchen,Mobile App,Debit Card,4,86.27,0.05,327.82,0,0,5
+C10894,2025-11-22 17:48:06.486486488,UK,Clothing,Website,PayPal,1,64.05,0.15,54.45,5,0,5
+C10895,2025-11-23 02:32:47.567567568,Australia,Electronics,Marketplace,Debit Card,5,140.9,0.05,669.27,0,0,5
+C10896,2025-11-23 11:17:28.648648648,Germany,Home & Kitchen,Mobile App,Credit Card,2,123.1,0.0,246.2,0,0,5
+C10897,2025-11-23 20:02:09.729729732,Thailand,Sports,Website,Debit Card,4,91.41,0.0,365.65,0,0,4
+C10898,2025-11-24 04:46:50.810810812,USA,Electronics,Website,Mobile Payment,3,198.73,0.2,476.95,0,0,4
+C10899,2025-11-24 13:31:31.891891892,India,Electronics,Website,PayPal,1,210.93,0.0,210.93,0,0,3
+C10900,2025-11-24 22:16:12.972972972,UK,Electronics,Website,Mobile Payment,2,128.1,0.05,243.39,0,0,4
+C10901,2025-11-25 07:00:54.054054056,Thailand,Electronics,Mobile App,Credit Card,1,168.71,0.05,160.27,0,0,4
+C10902,2025-11-25 15:45:35.135135136,Australia,Electronics,Website,Debit Card,5,226.25,0.05,1074.7,0,0,3
+C10903,2025-11-26 00:30:16.216216216,Thailand,Clothing,Website,Mobile Payment,3,41.48,0.0,124.45,0,1,5
+C10904,2025-11-26 09:14:57.297297300,Australia,Home & Kitchen,Mobile App,Mobile Payment,1,80.79,0.05,76.75,3,0,4
+C10905,2025-11-26 17:59:38.378378380,Thailand,Sports,Website,Debit Card,4,77.68,0.05,295.18,0,0,5
+C10906,2025-11-27 02:44:19.459459460,Canada,Beauty,Marketplace,Debit Card,3,35.18,0.2,84.43,3,0,3
+C10907,2025-11-27 11:29:00.540540540,USA,Home & Kitchen,Website,PayPal,4,121.84,0.0,487.36,0,0,4
+C10908,2025-11-27 20:13:41.621621624,USA,Home & Kitchen,Website,Mobile Payment,1,71.26,0.05,67.69,8,0,4
+C10909,2025-11-28 04:58:22.702702704,Thailand,Home & Kitchen,Website,Mobile Payment,3,113.24,0.05,322.72,0,0,3
+C10910,2025-11-28 13:43:03.783783784,USA,Clothing,Website,Credit Card,4,58.06,0.05,220.61,0,0,4
+C10911,2025-11-28 22:27:44.864864864,India,Home & Kitchen,Website,PayPal,5,110.27,0.1,496.22,0,0,3
+C10912,2025-11-29 07:12:25.945945948,Canada,Clothing,Mobile App,Credit Card,5,50.46,0.0,252.31,0,0,3
+C10913,2025-11-29 15:57:07.027027028,USA,Home & Kitchen,Marketplace,Mobile Payment,1,95.41,0.0,95.41,5,0,3
+C10914,2025-11-30 00:41:48.108108108,USA,Clothing,Website,Credit Card,3,71.49,0.1,193.02,0,0,3
+C10915,2025-11-30 09:26:29.189189192,Australia,Home & Kitchen,Mobile App,Mobile Payment,2,92.41,0.05,175.59,0,1,5
+C10916,2025-11-30 18:11:10.270270272,India,Home & Kitchen,Mobile App,Mobile Payment,3,85.66,0.05,244.14,0,0,1
+C10917,2025-12-01 02:55:51.351351352,Germany,Sports,Marketplace,Credit Card,5,75.27,0.0,376.36,0,0,4
+C10918,2025-12-01 11:40:32.432432432,USA,Beauty,Website,Credit Card,4,48.09,0.0,192.34,0,0,5
+C10919,2025-12-01 20:25:13.513513516,USA,Electronics,Website,Debit Card,2,181.89,0.0,363.78,0,0,4
+C10920,2025-12-02 05:09:54.594594596,Australia,Sports,Website,Debit Card,1,95.0,0.0,95.0,3,0,5
+C10921,2025-12-02 13:54:35.675675676,Thailand,Clothing,Mobile App,Debit Card,2,49.86,0.1,89.74,5,0,5
+C10922,2025-12-02 22:39:16.756756756,Germany,Sports,Marketplace,Mobile Payment,1,72.3,0.15,61.45,8,0,5
+C10923,2025-12-03 07:23:57.837837840,USA,Beauty,Website,Credit Card,2,49.19,0.0,98.39,3,0,3
+C10924,2025-12-03 16:08:38.918918920,India,Home & Kitchen,Website,PayPal,1,106.41,0.0,106.41,0,0,5
+C10925,2025-12-04 00:53:20.000000000,Thailand,Electronics,Marketplace,Mobile Payment,1,234.82,0.0,234.82,0,0,5
+C10926,2025-12-04 09:38:01.081081080,Germany,Home & Kitchen,Marketplace,PayPal,2,125.8,0.05,239.02,0,0,4
+C10927,2025-12-04 18:22:42.162162164,UK,Clothing,Marketplace,Credit Card,2,54.93,0.0,109.87,0,0,3
+C10928,2025-12-05 03:07:23.243243244,Germany,Clothing,Mobile App,Mobile Payment,1,42.78,0.15,36.36,3,1,4
+C10929,2025-12-05 11:52:04.324324324,Thailand,Home & Kitchen,Website,PayPal,5,64.92,0.1,292.12,0,0,5
+C10930,2025-12-05 20:36:45.405405408,Germany,Electronics,Mobile App,PayPal,2,217.59,0.2,348.14,0,0,4
+C10931,2025-12-06 05:21:26.486486488,UK,Beauty,Mobile App,Debit Card,3,52.47,0.15,133.8,0,0,5
+C10932,2025-12-06 14:06:07.567567568,UK,Sports,Website,Debit Card,4,59.81,0.05,227.3,0,0,2
+C10933,2025-12-06 22:50:48.648648648,Germany,Clothing,Mobile App,Debit Card,1,44.6,0.05,42.37,3,0,5
+C10934,2025-12-07 07:35:29.729729732,Australia,Electronics,Mobile App,Mobile Payment,1,133.84,0.0,133.84,0,1,3
+C10935,2025-12-07 16:20:10.810810812,India,Home & Kitchen,Website,Credit Card,4,114.83,0.05,436.36,0,0,3
+C10936,2025-12-08 01:04:51.891891892,Thailand,Electronics,Mobile App,Credit Card,5,165.23,0.15,702.25,0,1,4
+C10937,2025-12-08 09:49:32.972972972,India,Sports,Mobile App,Debit Card,4,68.68,0.0,274.73,0,0,2
+C10938,2025-12-08 18:34:14.054054056,UK,Electronics,Marketplace,Debit Card,2,189.35,0.15,321.89,0,0,1
+C10939,2025-12-09 03:18:55.135135136,Thailand,Clothing,Website,Debit Card,4,70.82,0.0,283.28,0,0,3
+C10940,2025-12-09 12:03:36.216216216,Thailand,Home & Kitchen,Website,PayPal,1,104.0,0.15,88.4,3,0,4
+C10941,2025-12-09 20:48:17.297297300,USA,Clothing,Mobile App,Debit Card,4,62.18,0.15,211.41,0,0,5
+C10942,2025-12-10 05:32:58.378378380,India,Clothing,Website,PayPal,3,45.26,0.1,122.21,0,0,5
+C10943,2025-12-10 14:17:39.459459460,Australia,Beauty,Mobile App,Credit Card,2,42.37,0.1,76.26,3,0,4
+C10944,2025-12-10 23:02:20.540540540,India,Electronics,Mobile App,Mobile Payment,4,216.14,0.05,821.32,0,0,1
+C10945,2025-12-11 07:47:01.621621624,UK,Electronics,Website,Mobile Payment,1,248.63,0.15,211.34,0,0,4
+C10946,2025-12-11 16:31:42.702702704,USA,Electronics,Mobile App,Mobile Payment,2,151.38,0.2,242.2,0,0,5
+C10947,2025-12-12 01:16:23.783783784,Thailand,Sports,Mobile App,Mobile Payment,1,49.47,0.1,44.52,5,0,4
+C10948,2025-12-12 10:01:04.864864864,USA,Sports,Website,PayPal,5,52.69,0.1,237.1,0,0,2
+C10949,2025-12-12 18:45:45.945945948,USA,Clothing,Marketplace,PayPal,3,52.97,0.1,143.02,0,0,3
+C10950,2025-12-13 03:30:27.027027028,Thailand,Clothing,Marketplace,Debit Card,5,70.09,0.15,297.89,0,0,5
+C10951,2025-12-13 12:15:08.108108108,Thailand,Clothing,Mobile App,PayPal,3,38.77,0.05,110.51,0,1,4
+C10952,2025-12-13 20:59:49.189189192,Germany,Electronics,Mobile App,Debit Card,4,183.55,0.15,624.06,0,0,5
+C10953,2025-12-14 05:44:30.270270272,Australia,Sports,Mobile App,Debit Card,2,65.13,0.05,123.75,0,0,4
+C10954,2025-12-14 14:29:11.351351352,Canada,Home & Kitchen,Marketplace,Mobile Payment,4,66.31,0.0,265.23,0,0,3
+C10955,2025-12-14 23:13:52.432432432,Canada,Home & Kitchen,Mobile App,PayPal,3,91.36,0.05,260.39,0,0,4
+C10956,2025-12-15 07:58:33.513513516,Germany,Clothing,Mobile App,PayPal,3,48.31,0.05,137.68,0,0,4
+C10957,2025-12-15 16:43:14.594594596,USA,Electronics,Marketplace,Debit Card,3,170.34,0.0,511.01,0,0,1
+C10958,2025-12-16 01:27:55.675675676,Germany,Electronics,Website,Debit Card,1,214.91,0.0,214.91,0,0,2
+C10959,2025-12-16 10:12:36.756756756,India,Beauty,Marketplace,Credit Card,2,42.6,0.05,80.95,3,0,3
+C10960,2025-12-16 18:57:17.837837840,Thailand,Electronics,Website,Credit Card,4,141.71,0.0,566.82,0,0,2
+C10961,2025-12-17 03:41:58.918918920,USA,Clothing,Website,Debit Card,4,75.51,0.0,302.06,0,0,4
+C10962,2025-12-17 12:26:40.000000000,India,Electronics,Website,Credit Card,5,206.12,0.1,927.56,0,0,5
+C10963,2025-12-17 21:11:21.081081080,USA,Home & Kitchen,Marketplace,Credit Card,3,111.25,0.2,267.0,0,1,4
+C10964,2025-12-18 05:56:02.162162164,Germany,Home & Kitchen,Marketplace,Debit Card,3,67.99,0.1,183.57,0,0,4
+C10965,2025-12-18 14:40:43.243243244,Germany,Home & Kitchen,Mobile App,Debit Card,3,65.96,0.2,158.32,0,1,4
+C10966,2025-12-18 23:25:24.324324324,Thailand,Beauty,Mobile App,PayPal,4,28.54,0.1,102.76,0,0,4
+C10967,2025-12-19 08:10:05.405405408,USA,Home & Kitchen,Mobile App,Debit Card,5,74.89,0.0,374.47,0,0,1
+C10968,2025-12-19 16:54:46.486486488,USA,Clothing,Marketplace,Debit Card,1,54.45,0.1,49.01,8,0,4
+C10969,2025-12-20 01:39:27.567567568,Thailand,Clothing,Mobile App,Mobile Payment,2,74.53,0.1,134.15,0,0,4
+C10970,2025-12-20 10:24:08.648648648,Thailand,Clothing,Website,PayPal,1,56.1,0.05,53.29,10,0,3
+C10971,2025-12-20 19:08:49.729729732,India,Sports,Website,PayPal,4,63.22,0.0,252.89,0,0,5
+C10972,2025-12-21 03:53:30.810810812,Thailand,Beauty,Mobile App,PayPal,3,43.73,0.1,118.08,0,0,4
+C10973,2025-12-21 12:38:11.891891892,UK,Electronics,Mobile App,Mobile Payment,2,140.1,0.0,280.21,0,0,4
+C10974,2025-12-21 21:22:52.972972972,Thailand,Electronics,Website,Debit Card,4,202.8,0.1,730.07,0,0,3
+C10975,2025-12-22 06:07:34.054054056,Canada,Home & Kitchen,Website,PayPal,4,98.81,0.0,395.24,0,0,4
+C10976,2025-12-22 14:52:15.135135136,Thailand,Clothing,Marketplace,PayPal,4,68.99,0.1,248.37,0,0,5
+C10977,2025-12-22 23:36:56.216216216,USA,Electronics,Website,Credit Card,2,250.32,0.05,475.61,0,1,3
+C10978,2025-12-23 08:21:37.297297300,India,Clothing,Mobile App,PayPal,2,48.16,0.0,96.32,5,0,3
+C10979,2025-12-23 17:06:18.378378380,India,Clothing,Marketplace,Debit Card,5,58.12,0.05,276.08,0,0,4
+C10980,2025-12-24 01:50:59.459459460,Thailand,Home & Kitchen,Website,Debit Card,5,120.26,0.1,541.16,0,0,3
+C10981,2025-12-24 10:35:40.540540540,India,Beauty,Website,Credit Card,1,49.99,0.15,42.49,3,0,4
+C10982,2025-12-24 19:20:21.621621624,UK,Electronics,Mobile App,PayPal,2,187.41,0.15,318.6,0,0,4
+C10983,2025-12-25 04:05:02.702702704,UK,Electronics,Marketplace,PayPal,2,245.12,0.05,465.72,0,0,2
+C10984,2025-12-25 12:49:43.783783784,Thailand,Beauty,Mobile App,PayPal,2,29.6,0.1,53.28,10,0,1
+C10985,2025-12-25 21:34:24.864864864,Thailand,Clothing,Marketplace,Mobile Payment,5,74.34,0.0,371.72,0,0,4
+C10986,2025-12-26 06:19:05.945945948,Australia,Clothing,Website,PayPal,4,40.44,0.0,161.78,0,0,3
+C10987,2025-12-26 15:03:47.027027028,UK,Home & Kitchen,Mobile App,Debit Card,3,97.48,0.0,292.44,0,0,2
+C10988,2025-12-26 23:48:28.108108108,USA,Electronics,Mobile App,Debit Card,5,238.2,0.1,1071.88,0,0,5
+C10989,2025-12-27 08:33:09.189189192,Australia,Beauty,Marketplace,Mobile Payment,2,35.36,0.0,70.71,5,0,4
+C10990,2025-12-27 17:17:50.270270272,Australia,Beauty,Website,Mobile Payment,5,41.22,0.0,206.11,0,0,4
+C10991,2025-12-28 02:02:31.351351352,Thailand,Clothing,Marketplace,PayPal,1,50.99,0.1,45.89,5,0,3
+C10992,2025-12-28 10:47:12.432432432,Germany,Home & Kitchen,Mobile App,Credit Card,2,122.99,0.1,221.37,0,1,4
+C10993,2025-12-28 19:31:53.513513516,Thailand,Clothing,Website,Mobile Payment,1,70.21,0.05,66.7,5,0,4
+C10994,2025-12-29 04:16:34.594594596,Australia,Home & Kitchen,Website,Mobile Payment,2,107.67,0.0,215.33,0,0,5
+C10995,2025-12-29 13:01:15.675675676,Germany,Electronics,Marketplace,PayPal,5,200.04,0.05,950.19,0,0,5
+C10996,2025-12-29 21:45:56.756756756,Canada,Sports,Website,PayPal,4,89.21,0.05,338.99,0,0,3
+C10997,2025-12-30 06:30:37.837837840,Thailand,Electronics,Website,Mobile Payment,3,175.43,0.1,473.65,0,0,4
+C10998,2025-12-30 15:15:18.918918920,Thailand,Sports,Website,Credit Card,1,70.93,0.0,70.93,10,0,4
+C10999,2025-12-31 00:00:00.000000000,Thailand,Home & Kitchen,Marketplace,Mobile Payment,5,108.99,0.1,490.46,0,0,4

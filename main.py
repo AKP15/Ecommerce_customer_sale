@@ -1,5 +1,7 @@
 import pandas as pd 
-df=pd.read_csv('cleaned.csv')
+import numpy as np
+import matplotlib.pyplot as plt
+df=pd.read_csv('ecom_cleaned.csv')
 df["Order_Date"] = pd.to_datetime(df["Order_Date"])
 print(df.columns.tolist())
 # Total Revenue| Total Orders| Total Quantity Sold| Average Order Value| Return Rate| Average Rating
@@ -35,14 +37,14 @@ revenue_by_country=df.groupby('Country')['Sales'].sum().sort_values(ascending=Fa
 
 #Monthly Revenue Trend>>>
 df["Month"] = df["Order_Date"].dt.to_period("M")
-revenue_by_month = df.groupby("Month")["Sales"].sum().sort_values(ascending=False)
-#print(revenue_by_month)
+revenue_by_month = df.groupby("Month")["Sales"].sum()
+print(revenue_by_month)
 
 #Return Rate by Category
 ret_df=df[df['Returned']==1]
 returned_order_by_category=ret_df.groupby('Category')['Returned'].count()
 total_order_by_category=df.groupby('Category')['Returned'].count()
-return_rate=returned_order_by_category/total_order_by_category*100
+return_rate_by_category=returned_order_by_category/total_order_by_category*100
 #print(return_rate)
 
 #Average rating by return rate 
@@ -85,7 +87,7 @@ corr_df=df[['Sales','Rating']]
 #print(corr_df.corr())
 
 #dashboard
-fig, axes = plt.subplots(2, 2, figsize=(16, 10))
+fig, axes = plt.subplots(2, 2, figsize=(12,8))
 
 fig.suptitle(
             "Ecommerce Customer Sales",
@@ -105,8 +107,8 @@ fig.text(
             va="center",
             fontsize=14,
             fontweight="bold",
-            bbox=kpi_style
-        )
+            bbox=kpi_style                                                                                                                              
+)
 
 fig.text(
             0.37, 0.90,
@@ -137,3 +139,50 @@ fig.text(
             fontweight="bold",
             bbox=kpi_style
         )
+
+axes[0, 0].bar(
+            revenue_by_category.index,
+            revenue_by_category.values
+                )
+axes[0, 0].set_title("Revenue by Category")
+axes[0, 0].set_xlabel("Category")
+axes[0, 0].set_ylabel("Revenue ($)")
+axes[0, 0].tick_params(axis="x", rotation=45)
+for i, value in enumerate(revenue_by_category.values):
+       axes[0, 0].text(i, value + 0.5, f"${value:.1f}", ha="center")
+
+#Return Rate by Category
+axes[0, 1].bar(
+            return_rate_by_category.index,
+            return_rate_by_category.values
+                                                )
+axes[0, 1].set_title("Return Rate  by Category")
+axes[0, 1].set_xlabel("Category")
+axes[0, 1].set_ylabel("Return rate")
+axes[0, 1].tick_params(axis="x", rotation=45)
+for i, value in enumerate(return_rate_by_category.values):
+           axes[0, 1].text(i, value + 0.5, f"{value:.1f}%", ha="center")
+           
+#revenue_by_channel
+axes[1, 0].bar(
+            revenue_by_channel.index,
+            revenue_by_channel.values
+                )
+axes[1, 0].set_title("Revenue by Channel")
+axes[1, 0].set_xlabel("Category")
+axes[1, 0].set_ylabel("Channel")
+axes[1, 0].tick_params(axis="x", rotation=45)
+for i, value in enumerate(revenue_by_channel.values):
+       axes[1, 0].text(i, value + 0.5, f"${value:.1f}", ha="center")
+
+axes[1, 1].plot(
+            np.array['Jan','Feb','Mat','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
+            revenue_by_month.values,
+            marker="o"
+                    )
+axes[1, 1].set_title("Monthly Revenue Trend")
+axes[1, 1].set_xlabel("Month")
+axes[1, 1].set_ylabel("Revenue ($)")
+
+plt.tight_layout(rect=[0, 0, 1, 0.84])
+plt.show()

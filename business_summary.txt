@@ -1,0 +1,31 @@
+Executive Summary
+The analysis of 1,000 e-commerce transactions generated $290,375.26 in revenue with an overall 6.40% return rate and an average customer rating of 3.83/5.
+Key Findings
+1. Electronics dominates revenue
+Revenue: $148,969.01
+Share: 51.3%
+Electronics is the company's strongest category.
+Beauty generated the lowest revenue at $15,626.30.
+2. Revenue fluctuates throughout the year
+Best month: August — $29,400.15
+Worst month: April — $20,782.45
+There is no consistent upward monthly trend.
+3. Sports has the highest return rate
+Sports: 8.55%
+Clothing: 4.72%
+Sports should be investigated for possible product-quality, expectation, sizing, or fulfillment issues.
+4. Electronics + Mobile App is a high-risk combination
+Return rate: 9.71%
+This is the highest Category + Channel return rate.
+Management should investigate the Mobile App electronics purchasing experience.
+5. Sales value and customer rating are barely related
+Correlation: −0.041
+There is essentially no linear relationship between order value and rating.
+
+
+Recommendations
+Reduce dependence on Electronics by developing other categories.
+Investigate Sports returns.
+Investigate Electronics purchases through the Mobile App.
+Analyze why April revenue is significantly lower.
+Continue monitoring customer ratings and returns.
